@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"log"
 	"net/http"
+	"net/url"
+	"path"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
@@ -23,9 +25,16 @@ type CCase struct {
 
 const baseURL = "https://www.justice.gov"
 
-func Scrape() {
-	// Request the HTML page.
-	res, err := http.Get("https://www.justice.gov/opa/investigations-regarding-violence-capitol")
+func main() {
+	Scrape("/opa/investigations-regarding-violence-capitol")
+}
+
+func Scrape(p string) {
+
+	u, err := url.Parse(baseURL)
+	u.Path = path.Join(u.Path, p)
+
+	res, err := http.Get(u.String())
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -34,7 +43,6 @@ func Scrape() {
 		log.Fatalf("status code error: %d %s", res.StatusCode, res.Status)
 	}
 
-	// Load the HTML document
 	doc, err := goquery.NewDocumentFromReader(res.Body)
 	if err != nil {
 		log.Fatal(err)
@@ -43,6 +51,9 @@ func Scrape() {
 	ccases := CCases{}
 
 	doc.Find("tr").Each(func(i int, c *goquery.Selection) {
+		if i == 0 {
+			return // skip header row
+		}
 		ccase := extractCCase(c)
 		ccases = append(ccases, ccase)
 	})
@@ -51,11 +62,8 @@ func Scrape() {
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
-	fmt.Printf("--- t dump:\n%s\n\n", string(d))
-}
 
-func main() {
-	Scrape()
+	fmt.Printf("%s\n", string(d))
 }
 
 func extractCCase(c *goquery.Selection) CCase {
@@ -108,7 +116,7 @@ func clean(t string) string {
 	return t
 }
 
-//////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////
 // https://stackoverflow.com/questions/52594005/golang-replace-any-and-all-newline-characters?rq=1
 
 func replaceReplacer(s string) string {
