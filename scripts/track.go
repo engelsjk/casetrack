@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/json"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -13,18 +14,20 @@ import (
 )
 
 type CCases []CCase
+
 type CCase struct {
-	CaseNumber  string
-	Name        string
-	Charges     []string
-	Links       []string
-	Residency   string
-	CaseStatus  []string
-	LastUpdated string
+	CaseNumber  string   `json:"casenumber" yaml:"casenumber"`
+	Name        string   `json:"name" yaml:"name"`
+	Charges     []string `json:"charges" yaml:"charges"`
+	Links       []string `json:"links" yaml:"links"`
+	Residency   string   `json:"residency" yaml:"residency"`
+	CaseStatus  []string `json:"casestatus" yaml:"casestatus"`
+	LastUpdated string   `json:"lastupdated" yaml:"lastupdated"`
 }
 
 const baseURL = "https://www.justice.gov"
-const outputFilename = "charges.yml"
+const outputYAML = "charges.yml"
+const outputJSON = "charges.json"
 
 func main() {
 	G("/opa/investigations-regarding-violence-capitol")
@@ -59,14 +62,26 @@ func G(p string) {
 		ccases = append(ccases, ccase)
 	})
 
-	d, err := yaml.Marshal(&ccases)
+	// fmt.Printf("%s\n", string(d))
+
+	// output YAML
+	dYAML, err := yaml.Marshal(&ccases)
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
 
-	// fmt.Printf("%s\n", string(d))
+	err = ioutil.WriteFile(outputYAML, dYAML, 0644)
+	if err != nil {
+		log.Fatalf("error: %v", err)
+	}
 
-	err = ioutil.WriteFile(outputFilename, d, 0644)
+	// output JSON
+	dJSON, err := json.MarshalIndent(&ccases, "", " ")
+	if err != nil {
+		log.Fatalf("error: %v", err)
+	}
+
+	err = ioutil.WriteFile(outputJSON, dJSON, 0644)
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
