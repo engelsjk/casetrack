@@ -8,23 +8,25 @@ jobs:
   update_charges:
     runs-on: ubuntu-latest
     steps:    
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
       - name: Install Go
         uses: actions/setup-go@v2
         with:
           go-version: '^1.15.2'
 
-      - name: Checkout code
-        uses: actions/checkout@v2
-
       - name: Run tracking script
         run: go run scripts/track.go
 
-      - name: Update files
+      - name: Publish action
         run: |
+          git add --verbose .
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
           git commit -m "generated"
-          git push
+          git push origin main
 
     
