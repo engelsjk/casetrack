@@ -1,4 +1,4 @@
-module github.com/engelsjk/chargetrack
+module github.com/engelsjk/casetrack
 
 go 1.15
 

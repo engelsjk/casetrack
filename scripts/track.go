@@ -26,8 +26,9 @@ type CCase struct {
 }
 
 const baseURL = "https://www.justice.gov"
-const outputYAML = "charges.yml"
-const outputJSON = "charges.json"
+
+const outputYAML = "cases.yml"
+const outputJSON = "cases.json"
 
 func main() {
 	G("/opa/investigations-regarding-violence-capitol")
