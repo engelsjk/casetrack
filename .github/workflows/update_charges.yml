@@ -23,10 +23,9 @@ jobs:
 
       - name: Publish action
         run: |
-          git add --verbose .
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add .
+          git add --verbose .
           git commit -m "generated"
           git push origin main
 
