@@ -26,10 +26,10 @@ type CCase struct {
 const baseURL = "https://www.justice.gov"
 
 func main() {
-	Scrape("/opa/investigations-regarding-violence-capitol")
+	G("/opa/investigations-regarding-violence-capitol")
 }
 
-func Scrape(p string) {
+func G(p string) {
 
 	u, err := url.Parse(baseURL)
 	u.Path = path.Join(u.Path, p)
