@@ -6,35 +6,25 @@ on:
 
 jobs:
   update_charges:
-    name: Update charges
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      
-      - name: Set up Go
+    steps:    
+      - name: Install Go
         uses: actions/setup-go@v2
         with:
           go-version: '^1.15.2'
 
-      - name: Run tracking script
-      - run: go run scripts/track.go
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-      - name: Commit files
-        id: commit
+      - name: Run tracking script
+        run: go run scripts/track.go
+
+      - name: Update files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "github-actions"
-          if [-z "$(git status --porcelain)"]; then
-            echo "::set-output name=push::false"
-          else
-            git commit -m "Add changes" -a
-            echo "::set-output name=push::true"
-          fi
-        shell: bash
-      - name: Push changes
-        if: steps.commit.outputs.push == 'true'
-        uses: ad-m./github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "generated"
+          git push
 
     
