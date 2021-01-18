@@ -24,6 +24,7 @@ type CCase struct {
 }
 
 const baseURL = "https://www.justice.gov"
+const outputFilename = "charges.yml"
 
 func main() {
 	G("/opa/investigations-regarding-violence-capitol")
@@ -65,7 +66,7 @@ func G(p string) {
 
 	// fmt.Printf("%s\n", string(d))
 
-	err = ioutil.WriteFile("charges.yaml", d, 0644)
+	err = ioutil.WriteFile(outputFilename, d, 0644)
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
