@@ -1,4 +1,4 @@
-name: Update Charges
+name: Update Cases
 
 on:
   workflow_dispatch:
