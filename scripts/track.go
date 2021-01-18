@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	"io/ioutil"
 	"log"
 	"net/http"
 	"net/url"
@@ -63,7 +63,13 @@ func G(p string) {
 		log.Fatalf("error: %v", err)
 	}
 
-	fmt.Printf("%s\n", string(d))
+	// fmt.Printf("%s\n", string(d))
+
+	err = ioutil.WriteFile("charges.yaml", d, 0644)
+	if err != nil {
+		log.Fatalf("error: %v", err)
+	}
+
 }
 
 func extractCCase(c *goquery.Selection) CCase {

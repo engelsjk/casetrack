@@ -1,0 +1,40 @@
+name: Update Charges
+
+on:
+  schedule:
+    - cron: '0 1-23 * * *'
+
+jobs:
+  update_charges:
+    name: Update charges
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Set up Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: '^1.15.2'
+
+      - name: Run tracking script
+      - run: go run scripts/track.go
+
+      - name: Commit files
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          if [-z "$(git status --porcelain)"]; then
+            echo "::set-output name=push::false"
+          else
+            git commit -m "Add changes" -a
+            echo "::set-output name=push::true"
+          fi
+        shell: bash
+      - name: Push changes
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m./github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    
