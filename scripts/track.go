@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -37,10 +38,8 @@ func main() {
 
 func initialize() TCases {
 
-	// track cases
 	tcases := TCases{}
 
-	// load cases file
 	file, err := os.Open(outputJSON)
 	if err != nil {
 		return tcases
@@ -61,7 +60,6 @@ func initialize() TCases {
 
 func document(p string) *goquery.Document {
 
-	// get website data
 	u, err := url.Parse(baseURL)
 	u.Path = path.Join(u.Path, p)
 
@@ -95,7 +93,7 @@ func output(tcases TCases) {
 	}
 
 	// output JSON
-	dJSON, err := json.MarshalIndent(&tcases, "", " ")
+	dJSON, err := json.MarshalIndent(&tcases, "", "  ")
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
@@ -116,17 +114,61 @@ func track(p string) {
 		if i == 0 {
 			return // skip header row
 		}
-		tcase := extract(c)
-		update(&tcases, tcase)
-	})
 
-	// fmt.Printf("%s\n", string(d))
+		tcase := extract(c)
+
+		if ok := update(tcases, tcase); ok {
+			fmt.Printf("updated : %s : %s\n", tcase.Name, tcase.CaseNumber)
+		} else {
+			tcases = append(tcases, tcase)
+			fmt.Printf("added : %s : %s\n", tcase.Name, tcase.CaseNumber)
+
+		}
+	})
 
 	output(tcases)
 }
 
-func update(tcases *TCases, tcase TCase) {
+func update(tcases TCases, tcase TCase) bool {
 
+	for i, tc := range tcases {
+		if match(tc, tcase) {
+			if len(tcase.Links) != 0 {
+				tcases[i].Links = tcase.Links
+			}
+			if len(tcase.Charges) != 0 {
+				tcases[i].Charges = tcase.Charges
+			}
+			if len(tcase.CaseStatus) != 0 {
+				tcases[i].CaseStatus = tcase.CaseStatus
+			}
+			if tcase.LastUpdated != "" {
+				tcases[i].LastUpdated = tcase.LastUpdated
+			}
+			return true
+		}
+	}
+
+	return false
+}
+
+func match(tc1, tc2 TCase) bool {
+	if tc1.CaseNumber == "" || tc2.CaseNumber == "" {
+		if tc1.Name == "" || tc2.Name == "" {
+			return false
+		}
+		if tc1.Name == tc2.Name {
+			return true
+		}
+	}
+	if tc1.CaseNumber == tc2.CaseNumber {
+		if tc1.Name != tc2.Name {
+			return false
+		}
+		return true
+	}
+
+	return false
 }
 
 func extract(c *goquery.Selection) TCase {
