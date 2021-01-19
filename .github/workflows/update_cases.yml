@@ -6,7 +6,7 @@ on:
     - cron: '0 1-23 * * *'
 
 jobs:
-  update_charges:
+  update_cases:
     runs-on: ubuntu-latest
     steps:    
 
