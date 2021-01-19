@@ -23,15 +23,11 @@ jobs:
         run: go run scripts/track.go
 
       - name: Check for changes
-        run: |
-          if git diff --exit-code; then
-            echo "::set-env name=changes_exist::false"
-          else
-            echo "::set-env name=changes_exist::true"
-          fi
+        id: git-check
+        run: echo ::set-output name=modified::$(if git diff --exit-code; then echo "true"; else echo "false"; fi)
 
-      - name: Commit and push only if changes
-        if: env.changes_exist == 'true'
+      - name: Commit and push if changes
+        if: steps.git-check.outputs.modified == 'true'
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
