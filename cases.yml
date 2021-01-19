@@ -416,7 +416,7 @@
     in the Western District of Louisiana 1/15/21.
   - Released on conditions.
   lastupdated: 1/15/2021
-- casenumber: ""
+- casenumber: 1:21-mj-105
   name: GOSSJANKOWSKI, Vitali
   charges:
   - Knowingly enter or remain in any restricted building or grounds without lawful
@@ -803,7 +803,7 @@
   - Arrested on 1/7/21. Initial appearance / detention hearing on 1/7/21. Defendant
     released. Preliminary Hearing set for 1/28/21 at 12:00 p.m.
   lastupdated: ""
-- casenumber: ""
+- casenumber: 1:21-mj-89
   name: REED, Blake A.
   charges:
   - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
@@ -908,7 +908,7 @@
   casestatus:
   - Arrested in Pennsylvania on 1/14/21
   lastupdated: 1/14/2021
-- casenumber: ""
+- casenumber: 1:21-mj-94
   name: SCHAFFER, Jon Ryan
   charges:
   - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
@@ -1162,3 +1162,15 @@
   casestatus:
   - Arrested 1/17/21 in the Central District of California
   lastupdated: 1/19/2021
+- casenumber: 1:21-mj-81
+  name: REED, Blake A.
+  charges:
+  - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
+    Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds
+  links:
+  - https://www.justice.gov/opa/page/file/1355931/download
+  - https://www.justice.gov/opa/page/file/1355936/download
+  residency: ""
+  casestatus:
+  - Arrested 1/17/21 in Nashville. Initial apparance on 1/19/21.
+  lastupdated: 1/19/21
