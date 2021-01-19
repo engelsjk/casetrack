@@ -6,6 +6,7 @@ import (
 	"log"
 	"net/http"
 	"net/url"
+	"os"
 	"path"
 	"strings"
 
@@ -13,9 +14,9 @@ import (
 	"gopkg.in/yaml.v2"
 )
 
-type CCases []CCase
+type TCases []TCase
 
-type CCase struct {
+type TCase struct {
 	CaseNumber  string   `json:"casenumber" yaml:"casenumber"`
 	Name        string   `json:"name" yaml:"name"`
 	Charges     []string `json:"charges" yaml:"charges"`
@@ -31,11 +32,36 @@ const outputYAML = "cases.yml"
 const outputJSON = "cases.json"
 
 func main() {
-	G("/opa/investigations-regarding-violence-capitol")
+	track("/opa/investigations-regarding-violence-capitol")
 }
 
-func G(p string) {
+func initialize() TCases {
 
+	// track cases
+	tcases := TCases{}
+
+	// load cases file
+	file, err := os.Open(outputJSON)
+	if err != nil {
+		return tcases
+	}
+	defer file.Close()
+
+	b, err := ioutil.ReadAll(file)
+	if err != nil {
+		return tcases
+	}
+
+	err = json.Unmarshal(b, &tcases)
+	if err != nil {
+		return tcases
+	}
+	return tcases
+}
+
+func document(p string) *goquery.Document {
+
+	// get website data
 	u, err := url.Parse(baseURL)
 	u.Path = path.Join(u.Path, p)
 
@@ -52,21 +78,13 @@ func G(p string) {
 	if err != nil {
 		log.Fatal(err)
 	}
+	return doc
+}
 
-	ccases := CCases{}
-
-	doc.Find("tr").Each(func(i int, c *goquery.Selection) {
-		if i == 0 {
-			return // skip header row
-		}
-		ccase := extractCCase(c)
-		ccases = append(ccases, ccase)
-	})
-
-	// fmt.Printf("%s\n", string(d))
+func output(tcases TCases) {
 
 	// output YAML
-	dYAML, err := yaml.Marshal(&ccases)
+	dYAML, err := yaml.Marshal(&tcases)
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
@@ -77,7 +95,7 @@ func G(p string) {
 	}
 
 	// output JSON
-	dJSON, err := json.MarshalIndent(&ccases, "", " ")
+	dJSON, err := json.MarshalIndent(&tcases, "", " ")
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
@@ -86,33 +104,55 @@ func G(p string) {
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
+}
+
+func track(p string) {
+
+	tcases := initialize()
+
+	doc := document(p)
+
+	doc.Find("tr").Each(func(i int, c *goquery.Selection) {
+		if i == 0 {
+			return // skip header row
+		}
+		tcase := extract(c)
+		update(&tcases, tcase)
+	})
+
+	// fmt.Printf("%s\n", string(d))
+
+	output(tcases)
+}
+
+func update(tcases *TCases, tcase TCase) {
 
 }
 
-func extractCCase(c *goquery.Selection) CCase {
-	ccase := CCase{}
+func extract(c *goquery.Selection) TCase {
+	tcase := TCase{}
 	c.Find("td").Each(func(i int, x *goquery.Selection) {
 		switch i {
 		case 0:
-			ccase.CaseNumber = clean(x.Text())
+			tcase.CaseNumber = clean(x.Text())
 		case 1:
-			ccase.Name = clean(x.Text())
+			tcase.Name = clean(x.Text())
 		case 2:
-			ccase.Charges = extractTexts(x)
+			tcase.Charges = texts(x)
 		case 3:
-			ccase.Links = extractLinks(x)
+			tcase.Links = links(x)
 		case 4:
-			ccase.Residency = clean(x.Text())
+			tcase.Residency = clean(x.Text())
 		case 5:
-			ccase.CaseStatus = extractTexts(x)
+			tcase.CaseStatus = texts(x)
 		case 6:
-			ccase.LastUpdated = clean(x.Text())
+			tcase.LastUpdated = clean(x.Text())
 		}
 	})
-	return ccase
+	return tcase
 }
 
-func extractTexts(s *goquery.Selection) []string {
+func texts(s *goquery.Selection) []string {
 	texts := []string{}
 	s.Find("p").Each(func(i int, x *goquery.Selection) {
 		texts = append(texts, clean(x.Text()))
@@ -123,7 +163,7 @@ func extractTexts(s *goquery.Selection) []string {
 	return texts
 }
 
-func extractLinks(l *goquery.Selection) []string {
+func links(l *goquery.Selection) []string {
 	links := []string{}
 	l.Find("a").Each(func(i int, x *goquery.Selection) {
 		if link, ok := (x.Attr("href")); ok {
