@@ -815,7 +815,7 @@
   casestatus:
   - Arrested 1/17/21 in Nashville. Initial apparance on 1/19/21.
   lastupdated: 1/19/21
-- casenumber: 1:21mj-91
+- casenumber: 1:21-mj-91
   name: REFFITT, Guy Wesley
   charges:
   - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
@@ -826,7 +826,7 @@
   residency: TX
   casestatus:
   - Arrested 1/18/21 in the Eastern District of Texas
-  lastupdated: 1/18/2021
+  lastupdated: 1/19/2021
 - casenumber: 1:21-mj-36
   name: ROBERTSON, Thomas
   charges:
@@ -1174,3 +1174,41 @@
   casestatus:
   - Arrested 1/17/21 in Nashville. Initial apparance on 1/19/21.
   lastupdated: 1/19/21
+- casenumber: ""
+  name: GARCIA, Gabriel Augustin
+  charges:
+  - Certain Acts During Civil Disorder, Aiding and Abetting; Knowingly Entering or
+    Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent
+    Entry and Disorderly Conduct on Capitol Grounds
+  links:
+  - https://www.justice.gov/file/1356771/download
+  - https://www.justice.gov/file/1356776/download
+  residency: ""
+  casestatus:
+  - Arrested 1/19/21 in the Southern District of Florida
+  lastupdated: 1/19/2021
+- casenumber: ""
+  name: MAZZOCCO, Matthew Carl
+  charges:
+  - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
+    Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds
+  links:
+  - https://www.justice.gov/file/1356781/download
+  - https://www.justice.gov/file/1356786/download
+  residency: ""
+  casestatus:
+  - Arrested 1/17/21 in San Antonio, Texas
+  lastupdated: 1/19/21
+- casenumber: ""
+  name: PERNA, Matthew
+  charges:
+  - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
+    Lawful Authority; Disorderly Conduct on Capitol Grounds
+  links:
+  - https://www.justice.gov/file/1356826/download
+  - https://www.justice.gov/file/1356831/download
+  residency: ""
+  casestatus:
+  - Arrested 1/19/21 in the Western District of Pennsylvania.
+  - Initial appearance 1/19/21 at 2:30pm.
+  lastupdated: 1/19/2021
