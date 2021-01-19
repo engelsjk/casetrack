@@ -196,7 +196,7 @@
     ],
     "residency": "FL",
     "casestatus": [
-      "Arrested 1/15/21 in the Western District of Georgia"
+      "Arrested 1/15/21 in the Middle District of Georgia"
     ],
     "lastupdated": "1/17/2021"
   },
@@ -362,7 +362,7 @@
     ],
     "residency": "GA",
     "casestatus": [
-      "Arrested 1/15/21 in the Western District of Georgia"
+      "Arrested 1/15/21 in the Middle District of Georgia"
     ],
     "lastupdated": "1/17/2021"
   },
@@ -499,7 +499,7 @@
     "casestatus": [
       "Arrested 1/15/21 in Houston, Texas."
     ],
-    "lastupdated": "1/16/2021"
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "1:21-mj-56",
@@ -547,7 +547,7 @@
     "casestatus": [
       "Arrested 1/17/21 in Washington, DC"
     ],
-    "lastupdated": "1/17/21"
+    "lastupdated": "1/19/21"
   },
   {
     "casenumber": "",
@@ -556,14 +556,15 @@
       "Knowingly enter or remain in any restricted building or grounds without lawful authority to do; knowingly, and with intent to impede or disrupt the orderly conduct of Government business or official functions, engage in disorderly or disruptive conduct in, or within such proximity to, any restricted building or grounds when, or so that, such conduct, in fact, impedes or disrupts the orderly conduct of Government business or official functions; or attempts or conspires to do so."
     ],
     "links": [
-      "https://www.justice.gov/file/1355781/download"
+      "https://www.justice.gov/file/1355781/download",
+      "https://www.justice.gov/opa/page/file/1356476/download"
     ],
     "residency": "TN",
     "casestatus": [
       "Arrested 1/16/21 in Nashville, TN.",
       "Initial appearance on 1/19/2021"
     ],
-    "lastupdated": "1/16/2021"
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "1:21-mj-75",
@@ -579,7 +580,7 @@
     "casestatus": [
       "Arrested 1/17/21 in the District of New Jersey"
     ],
-    "lastupdated": "1/18/2021"
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "",
@@ -709,7 +710,7 @@
     "casestatus": [
       "Arrested 1/18/21 in the Northern District of Iowa"
     ],
-    "lastupdated": "1/18/2021"
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "1:21-MJ-61",
@@ -858,10 +859,10 @@
     ],
     "residency": "TN",
     "casestatus": [
-      "Initial Appearance 1/12/21 at 4:30 p.m. Preliminary / Detention hearing on 1/19/21 at 9:30 a.m. CST",
-      "(MDTN District Court)"
+      "Initial appearance in the Middle District of Tennessee 1/12/21.",
+      "Preliminary/Detention hearing rescheduled to 1/22/21 at 1:00pm CST."
     ],
-    "lastupdated": "1/16/2021"
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "",
@@ -995,7 +996,7 @@
     "casestatus": [
       "Arrested 1/17/21 in Nashville. Initial apparance on 1/19/21."
     ],
-    "lastupdated": "1/17/21"
+    "lastupdated": "1/19/21"
   },
   {
     "casenumber": "1:21mj-91",
@@ -1087,13 +1088,14 @@
       "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Disorderly Conduct on Capitol Grounds"
     ],
     "links": [
-      "https://www.justice.gov/opa/page/file/1356081/download"
+      "https://www.justice.gov/opa/page/file/1356081/download",
+      "https://www.justice.gov/opa/page/file/1356471/download"
     ],
     "residency": "TX",
     "casestatus": [
       "Arrested on 1/15/21"
     ],
-    "lastupdated": "1/18/2021"
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "",
@@ -1126,7 +1128,7 @@
     "casestatus": [
       "Arrested 1/17/21 in the Southern District of Indiana."
     ],
-    "lastupdated": "1/17/2021"
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "1:21-mj-46",
@@ -1290,8 +1292,91 @@
     ],
     "residency": "PA",
     "casestatus": [
-      "Arrested on 1/15/21 in the Middle District of Pennsylvania"
+      "Arrested on 1/15/21 in the Middle District of Pennsylvania.",
+      "Initial appearance via video on 1/25/21 in federal court in the District of Columbia."
     ],
-    "lastupdated": "1/17/2021"
+    "lastupdated": "1/19/2021"
+  },
+  {
+    "casenumber": "1:21-mj-24",
+    "name": "BARANYI, Thomas",
+    "charges": [
+      "Restricted building or grounds; violent entry or disorderly conduct"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1355731/download",
+      "https://www.justice.gov/opa/page/file/1356466/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested on 1/12/21. Initial appearance in the District of New Jersey on 1/12/21"
+    ],
+    "lastupdated": "1/19/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "CALDWELL, Thomas Edward",
+    "charges": [
+      "Conspiracy to commit an Offence; Obstruction of an Official Proceeding; Knowingly Entering or Remaining in any Restricted Building or Groudns Without Lawful Authority; Violent Entry or Disorderly Conduct"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1356331/download",
+      "https://www.justice.gov/opa/page/file/1356326/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/19/21 in the Western District of Virginia"
+    ],
+    "lastupdated": "1/19/2021"
+  },
+  {
+    "casenumber": "1:21-mj-34",
+    "name": "MOSTOFSKY, Aaron",
+    "charges": [
+      "One felony count of theft of government property."
+    ],
+    "links": [
+      "https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol",
+      "https://www.justice.gov/usao-dc/press-release/file/1353206/download",
+      "https://www.justice.gov/opa/page/file/1355521/download"
+    ],
+    "residency": "NY",
+    "casestatus": [
+      ""
+    ],
+    "lastupdated": "1/19/2021"
+  },
+  {
+    "casenumber": "1:21-mj-53",
+    "name": "PRIOLA, Christine",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds; Unlawful Activities on Capitol Grounds, Parades, Assemblages and Display of Flags"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1354421/download",
+      "https://www.justice.gov/opa/page/file/1355526/download"
+    ],
+    "residency": "OH",
+    "casestatus": [
+      "Initial appearance 1/14/21 in the Northern District of Ohio.",
+      "Defendant was released on bond with home detention and electronic home monitoring."
+    ],
+    "lastupdated": "1/19/2021"
+  },
+  {
+    "casenumber": "1:21-mj-91",
+    "name": "REFFITT, Guy Wesley",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Obstruction of Justice"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1356126/download",
+      "https://www.justice.gov/opa/page/file/1356111/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/18/21 in the Eastern District of Texas"
+    ],
+    "lastupdated": "1/19/2021"
   }
 ]
