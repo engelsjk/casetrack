@@ -2,7 +2,6 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -91,6 +90,7 @@ func output(tcases TCases) {
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
+	log.Printf("saved : %s\n", outputYAML)
 
 	// output JSON
 	dJSON, err := json.MarshalIndent(&tcases, "", "  ")
@@ -102,6 +102,7 @@ func output(tcases TCases) {
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
+	log.Printf("saved : %s\n", outputJSON)
 }
 
 func track(p string) {
@@ -118,10 +119,10 @@ func track(p string) {
 		tcase := extract(c)
 
 		if ok := update(tcases, tcase); ok {
-			fmt.Printf("updated : %s : %s\n", tcase.Name, tcase.CaseNumber)
+			log.Printf("updated : %s : %s\n", tcase.Name, tcase.CaseNumber)
 		} else {
 			tcases = append(tcases, tcase)
-			fmt.Printf("added : %s : %s\n", tcase.Name, tcase.CaseNumber)
+			log.Printf("added : %s : %s\n", tcase.Name, tcase.CaseNumber)
 		}
 	})
 
