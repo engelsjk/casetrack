@@ -390,7 +390,7 @@
   casestatus:
   - ""
   lastupdated: 1/15/2021
-- casenumber: ""
+- casenumber: 1:21-mj-14
   name: GIONET, Anthime Joseph
   charges:
   - Knowingly entering or remaining in any restricted building or grounds without
@@ -557,7 +557,7 @@
   casestatus:
   - Arrested 1/16/21 in the Western District of Kentucky
   lastupdated: 1/17/2021
-- casenumber: 1:21-mj-42/2
+- casenumber: 1:21-mj-42
   name: KELLER, Klete Derik
   charges:
   - Obstructing Law Enforcement Engaged In Official Duties Incident to Civil Disorder;
@@ -1212,3 +1212,15 @@
   - Arrested 1/19/21 in the Western District of Pennsylvania.
   - Initial appearance 1/19/21 at 2:30pm.
   lastupdated: 1/19/2021
+- casenumber: 1:21-mj-42/2
+  name: KELLER, Klete Derik
+  charges:
+  - Obstructing Law Enforcement Engaged In Official Duties Incident to Civil Disorder;
+    Knowingly Entering or Remaining in any Restricted Building or Grounds Without
+    Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds
+  links:
+  - https://www.justice.gov/opa/page/file/1354311/download
+  residency: CO
+  casestatus:
+  - ""
+  lastupdated: 1/14/2021
