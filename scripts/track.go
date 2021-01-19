@@ -122,7 +122,6 @@ func track(p string) {
 		} else {
 			tcases = append(tcases, tcase)
 			fmt.Printf("added : %s : %s\n", tcase.Name, tcase.CaseNumber)
-
 		}
 	})
 
