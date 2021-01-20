@@ -30,7 +30,6 @@ type TCase struct {
 const baseURL = "https://www.justice.gov"
 
 const fnCases = "cases"
-const fnbckpCases = "bckp/cases_bckp"
 
 func main() {
 	track("/opa/investigations-regarding-violence-capitol")
@@ -115,8 +114,6 @@ func output(tcases TCases, fn string) {
 func track(p string) {
 
 	tcases := initialize(fnCases)
-
-	output(tcases, fnbckpCases)
 
 	doc := document(p)
 
