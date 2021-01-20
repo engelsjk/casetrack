@@ -9,3 +9,11 @@ The case files reflect data that is available in the table at the above [justice
 ## Updates
 
 The tracking script is run every 30 minutes to monitor changes, and the case files are updated accordingly.
+
+## Example
+
+Sort by case numbers.
+
+```bash
+jq -c '.[].casenumber' cases.json | sort | uniq
+```
