@@ -299,9 +299,9 @@
     ],
     "residency": "FL",
     "casestatus": [
-      ""
+      "Arrested 1/14/21 in the Middle District of Florida. Initial Appearance 1/14/21 in teh Middle District of Florida."
     ],
-    "lastupdated": ""
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "1:21-mj-119",
@@ -399,9 +399,11 @@
     ],
     "residency": "",
     "casestatus": [
-      "Arrested 1/16/21 in Tennessee."
+      "Arrested 1/16/21 in Tennessee.",
+      "Initial appearance 1/19/21 in the Middle District of Tennessee.",
+      "Detention hearing set for July 25, 2021 at 1pm."
     ],
-    "lastupdated": "1/16/2021"
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "1:21-mj-16",
@@ -564,7 +566,8 @@
     "residency": "TN",
     "casestatus": [
       "Arrested 1/16/21 in Nashville, TN.",
-      "Initial appearance on 1/19/2021"
+      "Initial appearance on 1/19/2021",
+      "Released with conditions."
     ],
     "lastupdated": "1/19/2021"
   },
@@ -663,9 +666,10 @@
     ],
     "residency": "FL",
     "casestatus": [
-      ""
+      "Arrested in  Middle District of Florida 1/08/21",
+      "Initial Appearance in Middle District of Florida 1/11/21"
     ],
-    "lastupdated": "1/15/2021"
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "1-21:mj-76",
@@ -1262,9 +1266,9 @@
     ],
     "residency": "FL",
     "casestatus": [
-      "Arrested in Florida 1/13/21"
+      "Arrested in the Middle District of Florida 1/13/21"
     ],
-    "lastupdated": "1/14/2021"
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "1:21-mj-99",
@@ -1274,13 +1278,15 @@
     ],
     "links": [
       "https://www.justice.gov/opa/page/file/1356231/download",
-      "https://www.justice.gov/opa/page/file/1356226/download"
+      "https://www.justice.gov/opa/page/file/1356226/download",
+      "https://www.justice.gov/opa/page/file/1357056/download",
+      "https://www.justice.gov/opa/page/file/1357051/download"
     ],
     "residency": "PA",
     "casestatus": [
       "Arrested 1/18/21 in the Middle District of Pennsylvania"
     ],
-    "lastupdated": "1/18/2021"
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "1:21-mj-26",
@@ -1385,7 +1391,7 @@
     "casenumber": "",
     "name": "BISIGNANO, Gina Michelle",
     "charges": [
-      "Civil Disorder; Destruction of Government Property; Aiding and Abetting; Obstructino of an Official Proceeding; Restricted Building or Grounds; Violent Entry or Disorderly Conduct"
+      "Civil Disorder; Destruction of Government Property; Aiding and Abetting; Obstruction of an Official Proceeding; Restricted Building or Grounds; Violent Entry or Disorderly Conduct"
     ],
     "links": [
       "https://www.justice.gov/opa/page/file/1356556/download",
@@ -1393,9 +1399,10 @@
     ],
     "residency": "",
     "casestatus": [
-      "Arrested 1/19/21 in the Central District of California"
+      "Arrested 1/19/21 in the Central District of California",
+      "Ordered detained."
     ],
-    "lastupdated": "1/19/2021"
+    "lastupdated": "1/20/2021"
   },
   {
     "casenumber": "",
@@ -1425,9 +1432,10 @@
     ],
     "residency": "",
     "casestatus": [
-      "Arrested 1/17/21 in the Central District of California"
+      "Arrested 1/18/21 in the Central District of California",
+      "Released on conditions. Virtual hearing in federal court in the District of Columbia on 1/21/21 at 1:00pm."
     ],
-    "lastupdated": "1/19/2021"
+    "lastupdated": "1/20/2021"
   },
   {
     "casenumber": "",
@@ -1441,9 +1449,10 @@
     ],
     "residency": "",
     "casestatus": [
-      "Arrested 1/17/21 in the Central District of California"
+      "Arrested 1/18/21 in the Central District of California",
+      "Released on conditions."
     ],
-    "lastupdated": "1/19/2021"
+    "lastupdated": "1/20/2021"
   },
   {
     "casenumber": "1:21-mj-81",
@@ -1457,7 +1466,7 @@
     ],
     "residency": "",
     "casestatus": [
-      "Arrested 1/17/21 in Nashville. Initial apparance on 1/19/21."
+      "Arrested 1/17/21 in Nashville. Initial apparance on 1/19/21. Released with conditions."
     ],
     "lastupdated": "1/19/21"
   },
@@ -1491,7 +1500,7 @@
     "casestatus": [
       "Arrested 1/17/21 in San Antonio, Texas"
     ],
-    "lastupdated": "1/19/21"
+    "lastupdated": "1/19/2021"
   },
   {
     "casenumber": "",
@@ -1524,5 +1533,262 @@
       ""
     ],
     "lastupdated": "1/14/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "ABUAL-RAGHEB, Rasha N.",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly Engages in Disorderly or Disruptive Conduct in any Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1357081/download",
+      "https://www.justice.gov/opa/page/file/1357076/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/19/21 in the District of New Jersey"
+    ],
+    "lastupdated": "1/19/21"
+  },
+  {
+    "casenumber": "",
+    "name": "BIGGS, Joseph Randall",
+    "charges": [
+      "(i) corruptly did obstruct, influence, or impede an official proceeding before Congress, (ii) did knowingly enter or remain in a restricted building or grounds, i.e., the U.S. Capitol, without lawful authority, or did knowingly, and with intent to impede or disrupt the    orderly conduct of Government business or official functions, engage in disorderly or disruptive conduct; (iii) did willfully and knowingly engage in disorderly or disruptive conduct, at any place in the Grounds or in any of the Capitol Buildings with the intent to impede, disrupt, or disturb the orderly conduct of a session of Congress or either House of Congress, or the orderly conduct in that building of any deliberations of either House of Congress."
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1357251/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/20/21 in the Middle District of Florida. Initial appearance 1/20/21 in the Middle District of Florida"
+    ],
+    "lastupdated": "1/20/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "BINGERT, Craig Michael",
+    "charges": [
+      "Certain Acts During Civil Disorder"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1356996/download",
+      "https://www.justice.gov/opa/page/file/1356991/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/18/21 in the Eastern District of Pennsylvania"
+    ],
+    "lastupdated": "1/19/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "CAMARGO, Samuel",
+    "charges": [
+      "Civil Disorder; Knowingly Entering or Remaining in any Restricted Building or Grounds without Lawful Authority; Knowingly Engages in Disorderly or Disruptive Conduct in any Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1357286/download",
+      "https://www.justice.gov/opa/page/file/1357291/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/20/21 in teh Eastern District of Virginia"
+    ],
+    "lastupdated": "1/20/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "DRESCH, Karl",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority and Impeding or Disrupting Official Functions; Violent Entry and Disorderly Conduct on Capitol Grounds; Obstructing an Official Proceeding"
+    ],
+    "links": [
+      "https://www.justice.gov/file/1357306/download",
+      "https://www.justice.gov/file/1357311/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/20/21 in the Western District of Michigan"
+    ],
+    "lastupdated": "1/20/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "HERNANDEZ, Emily",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds; Disorderly Conduct which Impedes the Conduct of Government Business; Steal, sell, convey or dispose of anything of value of the United States; Disruptive Conduct in the Capitol Buildings; Parading, Demonstrating, or Picketing in the Capitol Buildings"
+    ],
+    "links": [
+      "https://www.justice.gov/file/1357296/download",
+      "https://www.justice.gov/file/1357301/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/19/21 in St. Louis (Eastern District of Missouri)"
+    ],
+    "lastupdated": "1/20/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "HILES, Jacob",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly, With Intent to Impede Government Business or Official Functions, Engaging in Disorderly Conduct on Capitol Grounds; Parading, Demonstrating, or Picketing in the Capitol Buildings"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1356976/download",
+      "https://www.justice.gov/opa/page/file/1356971/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/19/21 in Norfolk, VA (EDVA).",
+      "Released on a personal recognizance bond; presentment date in federal court in the District of Columbia on 1/22/21 at 2:00pm."
+    ],
+    "lastupdated": "1/19/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "IANNI, Suzanne (aka, Sue Ianni)",
+    "charges": [
+      "Knowingly entering or remaining in any restricted building or grounds without lawful authority; Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/usao-dc/pr/two-massachusetts-residents-charged-connection-capitol-breach",
+      "https://www.justice.gov/opa/page/file/1357016/download",
+      "https://www.justice.gov/opa/page/file/1357021/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/19/21 in Boston"
+    ],
+    "lastupdated": "1/19/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "JACKSON, Emanuel",
+    "charges": [
+      "Assaulting an Officer of the United States; Assaulting an Officer of the United States with a deadly or dangerous weapon; obstruction of an official proceeding; unlawful entry and physical violence on restricted building or grounds; violent entry and disorderly conduct on Capitol grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1357091/download",
+      "https://www.justice.gov/opa/page/file/1357096/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/18/21 in the District of Columbia"
+    ],
+    "lastupdated": "1/19/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "MCCAUGHEY III, Patrick Edward",
+    "charges": [
+      "Assaulting, resisting, or impeding certain officers or employees; civil disorder; restricted building or grounds; violent entry or disorderly conduct"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1357241/download",
+      "https://www.justice.gov/opa/page/file/1357246/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/19/21 in the Southern District of New York"
+    ],
+    "lastupdated": "1/20/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "MINK, Jordan Robert",
+    "charges": [
+      "Unlawful Entry on Restricted Building or Grounds While Using or Carrying a Deadly or Dangerous Weapon; Unlawful Injury to Property on Capitol Grounds; Violent Entry, Disorderly Conduct, Physical Violence on Capitol Grounds; Destruction of government property valued at over $1,000; Theft of Government Property; Aiding and Abetting"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1357221/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/19/21 in the Western District of Pennsylvania"
+    ],
+    "lastupdated": "1/20/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "RILEY, Jorge A.",
+    "charges": [
+      "Obstructing or Impeding Any Official Proceeding; Knowingly Entering or Remaining in any Restricted Building or Grounds Withough Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1357041/download",
+      "https://www.justice.gov/opa/page/file/1357046/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/19/21 in the Eastern District of California"
+    ],
+    "lastupdated": "1/19/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "RIVERA, Jesus (aka, JD Rivera, Jesus Delmora Rivera)",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly, With Intent to Impede Government Business or Official Functions, Engaging in Disorderly Conduct on Capitol Grounds; Engaging in Disorderly or Disruptive Conduct on Capitol Buildings or Grounds; Parading, Demonstrating, or Picketing in the Capitol Buildings"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1357276/download",
+      "https://www.justice.gov/opa/page/file/1357281/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/20/21 in the Northern District of Florida. Initial Appearance 1/20/21 at 2:00pm CST."
+    ],
+    "lastupdated": "1/20/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "SAHADY, Mark",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/usao-dc/pr/two-massachusetts-residents-charged-connection-capitol-breach",
+      "https://www.justice.gov/opa/page/file/1357031/download",
+      "https://www.justice.gov/opa/page/file/1357026/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested on 1/19/21 in Boston"
+    ],
+    "lastupdated": "1/19/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "SHIVLEY, Barton Wade",
+    "charges": [
+      "Aiding and Abetting; Civil Disorder; Forcibly assault, resist, oppose, impede, intimidate, or interfere with any officer or employee of the United States or of any agency in any branch of the United States Government while engaged in or on account of the performance of official duties; Restricted Building or Grounds; Violent Entry, Obstruct or Impede Passage, Engage in Physical Violence on Grounds or any of the Capitol Buildings"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1357011/download",
+      "https://www.justice.gov/opa/page/file/1357006/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/19/21 in the Eastern District of Pennsylvania"
+    ],
+    "lastupdated": "1/19/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "SPENCER, Christopher Raphael (aka, Chris Spencer)",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds; Obstruction of Justice"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1356981/download",
+      "https://www.justice.gov/opa/page/file/1356986/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested 1/19/21 in the Northern District of North Carolina"
+    ],
+    "lastupdated": "1/19/2021"
   }
 ]
