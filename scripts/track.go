@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -28,18 +29,20 @@ type TCase struct {
 
 const baseURL = "https://www.justice.gov"
 
-const outputYAML = "cases.yml"
-const outputJSON = "cases.json"
+const fnCases = "cases"
+const fnbckpCases = "bckp/cases_bckp"
 
 func main() {
 	track("/opa/investigations-regarding-violence-capitol")
 }
 
-func initialize() TCases {
+func initialize(fn string) TCases {
 
 	tcases := TCases{}
 
-	file, err := os.Open(outputJSON)
+	fp := fmt.Sprintf("%s.json", fn)
+
+	file, err := os.Open(fp)
 	if err != nil {
 		return tcases
 	}
@@ -78,7 +81,7 @@ func document(p string) *goquery.Document {
 	return doc
 }
 
-func output(tcases TCases) {
+func output(tcases TCases, fn string) {
 
 	// output YAML
 	dYAML, err := yaml.Marshal(&tcases)
@@ -86,11 +89,13 @@ func output(tcases TCases) {
 		log.Fatalf("error: %v", err)
 	}
 
-	err = ioutil.WriteFile(outputYAML, dYAML, 0644)
+	fp := fmt.Sprintf("%s.yml", fn)
+
+	err = ioutil.WriteFile(fp, dYAML, 0644)
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
-	log.Printf("saved : %s\n", outputYAML)
+	log.Printf("saved : %s\n", fp)
 
 	// output JSON
 	dJSON, err := json.MarshalIndent(&tcases, "", "  ")
@@ -98,16 +103,20 @@ func output(tcases TCases) {
 		log.Fatalf("error: %v", err)
 	}
 
-	err = ioutil.WriteFile(outputJSON, dJSON, 0644)
+	fp = fmt.Sprintf("%s.json", fn)
+
+	err = ioutil.WriteFile(fp, dJSON, 0644)
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
-	log.Printf("saved : %s\n", outputJSON)
+	log.Printf("saved : %s\n", fp)
 }
 
 func track(p string) {
 
-	tcases := initialize()
+	tcases := initialize(fnCases)
+
+	output(tcases, fnbckpCases)
 
 	doc := document(p)
 
@@ -126,7 +135,7 @@ func track(p string) {
 		}
 	})
 
-	output(tcases)
+	output(tcases, fnCases)
 }
 
 func update(tcases TCases, tcase TCase) bool {
