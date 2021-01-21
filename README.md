@@ -12,8 +12,12 @@ The tracking script is run every 30 minutes to monitor changes, and the case fil
 
 ## Example
 
-Sort by case numbers.
+Sort and count by case numbers or names.
 
 ```bash
-jq -c '.[].casenumber' cases.json | sort | uniq
+jq -c '.[].casenumber' cases.json | sort | uniq -c
+```
+
+```bash
+jq -c '.[].name' cases.json | sort | uniq -c
 ```

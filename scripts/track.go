@@ -32,7 +32,13 @@ const baseURL = "https://www.justice.gov"
 const fnCases = "cases"
 
 func main() {
-	track("/opa/investigations-regarding-violence-capitol")
+	tcases := initialize(fnCases)
+	track(tcases, "/opa/investigations-regarding-violence-capitol")
+
+	fmt.Println("Review/edit cases.json then press enter to copy to cases.yaml")
+	fmt.Scanln()
+	tcases = initialize(fnCases)
+	copy(tcases)
 }
 
 func initialize(fn string) TCases {
@@ -80,50 +86,40 @@ func document(p string) *goquery.Document {
 	return doc
 }
 
-func output(tcases TCases, fn string) {
-
-	// output YAML
-	dYAML, err := yaml.Marshal(&tcases)
-	if err != nil {
-		log.Fatalf("error: %v", err)
-	}
-
-	fp := fmt.Sprintf("%s.yml", fn)
-
-	err = ioutil.WriteFile(fp, dYAML, 0644)
-	if err != nil {
-		log.Fatalf("error: %v", err)
-	}
-	log.Printf("saved : %s\n", fp)
-
+func output(tcases TCases) {
 	// output JSON
 	dJSON, err := json.MarshalIndent(&tcases, "", "  ")
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
-
-	fp = fmt.Sprintf("%s.json", fn)
-
-	err = ioutil.WriteFile(fp, dJSON, 0644)
+	err = ioutil.WriteFile("cases.json", dJSON, 0644)
 	if err != nil {
 		log.Fatalf("error: %v", err)
 	}
-	log.Printf("saved : %s\n", fp)
+	log.Printf("saved cases.json\n")
 }
 
-func track(p string) {
+func copy(tcases TCases) {
+	// output YAML
+	dYAML, err := yaml.Marshal(&tcases)
+	if err != nil {
+		log.Fatalf("error: %v", err)
+	}
+	err = ioutil.WriteFile("cases.yml", dYAML, 0644)
+	if err != nil {
+		log.Fatalf("error: %v", err)
+	}
+	log.Printf("saved cases.yaml\n")
 
-	tcases := initialize(fnCases)
+}
 
+func track(tcases TCases, p string) {
 	doc := document(p)
-
 	doc.Find("tr").Each(func(i int, c *goquery.Selection) {
 		if i == 0 {
 			return // skip header row
 		}
-
 		tcase := extract(c)
-
 		if ok := update(tcases, tcase); ok {
 			log.Printf("updated : %s : %s\n", tcase.Name, tcase.CaseNumber)
 		} else {
@@ -131,12 +127,10 @@ func track(p string) {
 			log.Printf("added : %s : %s\n", tcase.Name, tcase.CaseNumber)
 		}
 	})
-
-	output(tcases, fnCases)
+	output(tcases)
 }
 
 func update(tcases TCases, tcase TCase) bool {
-
 	for i, tc := range tcases {
 		if match(tc, tcase) {
 			if len(tcase.Links) != 0 {
@@ -154,7 +148,6 @@ func update(tcases TCases, tcase TCase) bool {
 			return true
 		}
 	}
-
 	return false
 }
 
@@ -173,7 +166,6 @@ func match(tc1, tc2 TCase) bool {
 		}
 		return true
 	}
-
 	return false
 }
 
