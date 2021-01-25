@@ -429,7 +429,7 @@
   residency: ""
   casestatus:
   - Arrested 1/18/21 in Washington, DC
-  lastupdated: 1/18/2021
+  lastupdated: 1/21/2021
 - casenumber: 1:21-mj-92
   name: GRIFFIN, Couy
   charges:
@@ -776,7 +776,7 @@
   residency: TN
   casestatus:
   - Arrested 1/17/21 in Nashville. Initial apparance on 1/19/21. Released with conditions.
-  lastupdated: 1/21/21
+  lastupdated: 1/21/2021
 - casenumber: 1:21-mj-91
   name: REFFITT, Guy Wesley
   charges:
@@ -827,21 +827,6 @@
   residency: TX
   casestatus:
   - Released on personal recognizance bond.
-  lastupdated: 1/21/2021
-- casenumber: 1:21-mj-12
-  name: RUSKELAS, Bradley
-  charges:
-  - Knowingly entering or remaining in any restricted building or grounds without
-    lawful authority; or knowingly, with intent to impede government business or official
-    functions, engaging in disorderly conduct on Capitol grounds; and violent entry
-    and disorderly conduct on Capitol grounds.
-  links:
-  - https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol
-  - https://www.justice.gov/opa/press-release/file/1351716/download
-  - https://www.justice.gov/opa/press-release/file/1351721/download
-  residency: IL
-  casestatus:
-  - ""
   lastupdated: 1/21/2021
 - casenumber: 1:21-mj-62
   name: RYAN, Jennifer Leigh
@@ -1107,7 +1092,7 @@
   - Arrested 1/18/21 in the Central District of California
   - Released on conditions. Virtual hearing in federal court in the District of Columbia
     on 1/21/21 at 1:00pm.
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-51
   name: STRAND, John Herbert
   charges:
@@ -1572,7 +1557,8 @@
   casestatus:
   - Arrested 1/20/21 in the Northern District of Texas. Initial appearance 1/22/21.
     Detention hearing 1/25/21.
-  lastupdated: 1/23/2021
+  - Ordered detained.
+  lastupdated: 1/25/2021
 - casenumber: ""
   name: ERICSON, Andrew C.
   charges:
@@ -1624,22 +1610,92 @@
 - casenumber: 1:21-mj-123
   name: SUAREZ, Marissa A.
   charges:
-  - Knowingly Entering or Remaining ni any Restricted Building or Grounds Without
+  - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
     Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds
   links:
   - https://www.justice.gov/opa/page/file/1359596/download
   residency: NJ
   casestatus:
-  - Arrested 1/22/21 in the District of New Jersey
+  - Arrested 1/22/21 in the District of New Jersey.
+  - Initial appearance 1/25/21. Released on conditions.
+  - Appearance on 1/27/21 in federal court in the District of Columbia
   lastupdated: 1/23/2021
 - casenumber: 1:21-mj-123
   name: TODISCO, Patricia
   charges:
-  - Knowingly Entering or Remaining ni any Restricted Building or Grounds Without
+  - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
     Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds
   links:
   - https://www.justice.gov/opa/page/file/1359596/download
   residency: NJ
   casestatus:
   - Arrested 1/22/21 in the District of New Jersey
-  lastupdated: 1/23/2021
+  - Initial appearance 1/25/21. Released on conditions.
+  - Appearance on 1/27/21 in federal court in the District of Columbia
+  lastupdated: 1/25/2021
+- casenumber: ""
+  name: COURTRIGHT, Gracyn Dawn
+  charges:
+  - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
+    Lawful Authority; Knowingly Engages in Disorderly or Disruptive Conduct in any
+    Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol
+    Grounds; Theft of Government Property (under $1,000)
+  links:
+  - https://www.justice.gov/opa/page/file/1360196/download
+  residency: WV
+  casestatus:
+  - Arrested 1/19/2021 in Southern District of West Virginia
+  lastupdated: 1/25/2021
+- casenumber: ""
+  name: MILLER, Matthew Ryan
+  charges:
+  - Knowingly Entering or Remaining in any Restricted Buildings or Grounds Without
+    Lawful Authority, with a Dangerous Weapon; Knowingly Engages in Disorderly or
+    Disruptive Conduct in any Restricted Building or Grounds, with a Dangerous Weapon;
+    Injuring Erection or Architectural Feature in the Capitol Grounds; Violent Entry
+    and Disorderly Conduct on Capitol Grounds
+  links:
+  - https://www.justice.gov/opa/page/file/1360201/download
+  residency: MD
+  casestatus:
+  - Arrested 1/25/2021 in the District of Maryland
+  lastupdated: 1/25/2021
+- casenumber: 1:21-mj-12
+  name: RUSKTALES, Bradley
+  charges:
+  - Knowingly entering or remaining in any restricted building or grounds without
+    lawful authority; or knowingly, with intent to impede government business or official
+    functions, engaging in disorderly conduct on Capitol grounds; and violent entry
+    and disorderly conduct on Capitol grounds.
+  links:
+  - https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol
+  - https://www.justice.gov/opa/press-release/file/1351716/download
+  - https://www.justice.gov/opa/press-release/file/1351721/download
+  residency: IL
+  casestatus:
+  - ""
+  lastupdated: 1/25/2021
+- casenumber: 1:21-mj-124
+  name: STEELE-SMITH, Melody
+  charges:
+  - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
+    Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds
+  links:
+  - https://www.justice.gov/file/1360206/download
+  residency: VA
+  casestatus:
+  - Arrested in the Eastern District of Virginia on 1/20/2021
+  lastupdated: 1/25/2021
+- casenumber: ""
+  name: STRAKA, Brandon
+  charges:
+  - Impeding law enforcement officer during civil disorder; knowingly entering and
+    remaining on restricted grounds without lawful authority and/or engaging in dosorderly
+    conduct within proximity to a restricted building to impede official functions;
+    engage in disorderly conduct with intent to disturb a hearing before Congress
+  links:
+  - https://www.justice.gov/opa/page/file/1360091/download
+  residency: NE
+  casestatus:
+  - Arrested 1/25/21 in the District of Nebraska
+  lastupdated: 1/25/2021
