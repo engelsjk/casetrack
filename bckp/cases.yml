@@ -8,10 +8,12 @@
   links:
   - https://www.justice.gov/opa/page/file/1355881/download
   - https://www.justice.gov/opa/page/file/1355876/download
+  - https://www.justice.gov/opa/page/file/1358936/download
+  - https://www.justice.gov/opa/page/file/1358931/download
   residency: TX
   casestatus:
   - Arrested 1/16/21 in the Eastern District of Texas
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-10
   name: ALBERTS, Christopher Michael
   charges:
@@ -213,10 +215,12 @@
   links:
   - https://www.justice.gov/opa/page/file/1355881/download
   - https://www.justice.gov/opa/page/file/1355876/download
+  - https://www.justice.gov/opa/page/file/1358936/download
+  - https://www.justice.gov/opa/page/file/1358931/download
   residency: LA
   casestatus:
   - Arrested 1/16/21 in the Western District of Louisiana
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-8
   name: COUNCIL, Matthew
   charges:
@@ -462,7 +466,7 @@
   charges:
   - Knowingly entering or remaining in any restricted building or grounds without
     lawful authority; disrupting the orderly conduct of government business; violent
-    entry and disorderly conduct in a Capitol building; parading, demostrating, or
+    entry and disorderly conduct in a Capitol building; parading, demonstrating, or
     picketing in a Capitol building; obstructing a law enforcement officer during
     a civil disorder
   links:
@@ -471,7 +475,7 @@
   residency: NJ
   casestatus:
   - Arrested 1/17/21 in the District of New Jersey
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: ""
   name: HARDING, Peter J.
   charges:
@@ -509,22 +513,6 @@
   casestatus:
   - Arrested on 1/15/21 in Charlottesville, VA.
   lastupdated: 1/21/2021
-- casenumber: 4:21-mj-11
-  name: JENSEN, Douglas Austin
-  charges:
-  - Knowingly entering or remaining in any restricted building or grounds without
-    lawful authority; disrupting the orderly conduct of government business; violent
-    entry and disorderly conduct in a Capitol building; parading, demonstrating, or
-    picketing in a Capitol building; and obstructing a law enforcement officer during
-    a civil disorder
-  links:
-  - https://www.justice.gov/opa/page/file/1353381/download
-  - https://www.justice.gov/opa/page/file/1353386/download
-  - https://www.justice.gov/opa/page/file/1353376/download
-  residency: IA
-  casestatus:
-  - ""
-  lastupdated: 1/21/2021
 - casenumber: 1:21-mj-20
   name: JOHNSON, Adam
   charges:
@@ -554,7 +542,7 @@
   casestatus:
   - Arrested 1/16/21 in the Western District of Kentucky
   lastupdated: 1/21/2021
-- casenumber: 1:21-mj-42/2
+- casenumber: 1:21-mj-42
   name: KELLER, Klete Derik
   charges:
   - Obstructing Law Enforcement Engaged In Official Duties Incident to Civil Disorder;
@@ -565,7 +553,7 @@
   residency: CO
   casestatus:
   - ""
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-93
   name: KELLY, Leo
   charges:
@@ -706,7 +694,7 @@
   residency: TX
   casestatus:
   - Arrested 1/18/21 in the Eastern District of Texas
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-15
   name: OCHS, Nicholas
   charges:
@@ -786,7 +774,7 @@
   residency: TN
   casestatus:
   - Arrested 1/17/21 in Nashville. Initial apparance on 1/19/21. Released with conditions.
-  lastupdated: 1/19/21
+  lastupdated: 1/21/21
 - casenumber: 1:21-mj-91
   name: REFFITT, Guy Wesley
   charges:
@@ -1089,7 +1077,7 @@
   casestatus:
   - Arrested 1/19/21 in the Central District of California
   - Ordered detained.
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-83
   name: EHRKE, Valerie Elaine
   charges:
@@ -1129,7 +1117,7 @@
   casestatus:
   - Arrested 1/18/21 in the Central District of California
   - Released on conditions.
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-95
   name: GARCIA, Gabriel Augustin
   charges:
@@ -1142,7 +1130,7 @@
   residency: FL
   casestatus:
   - Arrested 1/19/21 in the Southern District of Florida
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-96
   name: MAZZOCCO, Matthew Carl
   charges:
@@ -1154,7 +1142,7 @@
   residency: TX
   casestatus:
   - Arrested 1/17/21 in San Antonio, Texas
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-107
   name: PERNA, Matthew
   charges:
@@ -1167,7 +1155,7 @@
   casestatus:
   - Arrested 1/19/21 in the Western District of Pennsylvania.
   - Initial appearance 1/19/21 at 2:30pm.
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-100
   name: ABUAL-RAGHEB, Rasha N.
   charges:
@@ -1181,7 +1169,7 @@
   residency: NJ
   casestatus:
   - Arrested 1/19/21 in the District of New Jersey
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: ""
   name: BIGGS, Joseph Randall
   charges:
@@ -1238,7 +1226,7 @@
   residency: ""
   casestatus:
   - Arrested 1/20/21 in the Western District of Michigan
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-73
   name: HERNANDEZ, Emily
   charges:
@@ -1252,7 +1240,7 @@
   residency: MO
   casestatus:
   - Arrested 1/19/21 in St. Louis (Eastern District of Missouri)
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-70
   name: HILES, Jacob
   charges:
@@ -1268,7 +1256,7 @@
   - Arrested 1/19/21 in Norfolk, VA (EDVA).
   - Released on a personal recognizance bond; presentment date in federal court in
     the District of Columbia on 1/22/21 at 2:00pm.
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-109
   name: IANNI, Suzanne (aka, Sue Ianni)
   charges:
@@ -1281,7 +1269,7 @@
   residency: MA
   casestatus:
   - Arrested 1/19/21 in Boston
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-115
   name: JACKSON, Emanuel
   charges:
@@ -1333,7 +1321,7 @@
   residency: CA
   casestatus:
   - Arrested 1/19/21 in the Eastern District of California
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: ""
   name: RIVERA, Jesus (aka, JD Rivera, Jesus Delmora Rivera)
   charges:
@@ -1362,7 +1350,7 @@
   residency: MA
   casestatus:
   - Arrested on 1/19/21 in Boston
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: ""
   name: SHIVLEY, Barton Wade
   charges:
@@ -1398,11 +1386,11 @@
   - Unlawful Entry on Restricted Grounds; Disorderly Conduct on Restricted Grounds
   links:
   - https://www.justice.gov/opa/page/file/1357481/download
-  - https://www.justice.gov/opa/page/file/1357481/download
+  - https://www.justice.gov/opa/page/file/1358941/download
   residency: NY
   casestatus:
   - Arrested 1/20/21 in the Eastern District of New York
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-136
   name: FOY, Michael Joseph
   charges:
@@ -1428,7 +1416,7 @@
   residency: CO
   casestatus:
   - Arrested 1/17/21 in Colorado.
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-116
   name: PHAM, Tam Dinh
   charges:
@@ -1487,11 +1475,11 @@
   - https://www.justice.gov/opa/page/file/1357831/download
   residency: FL
   casestatus:
-  - Arrested 1/21/21 in the Northern District of Florida. Initial appearance 1/21/21
+  - Arrested 1/21/21 in the Middle District of Florida. Initial appearance 1/21/21
     at 3:00pm.
   - Released on conditions.  Virtual hearing set for 1/26/21 at 1:00pm in federal
     court in the District of Columbia.
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: 1:21-mj-143
   name: COOKE, Nolan B.
   charges:
@@ -1504,7 +1492,7 @@
   residency: TX
   casestatus:
   - Arrested 1/21/2021 in the Eastern District of Texas
-  lastupdated: 1/21/2021
+  lastupdated: 1/22/2021
 - casenumber: ""
   name: GRIDER, Christoper Ray
   charges:
@@ -1513,8 +1501,71 @@
     on Capitol Grounds
   links:
   - https://www.justice.gov/file/1358251/download
-  - https://www.justice.gov/file/1358246/download
+  - https://www.justice.gov/opa/page/file/1358246/download
   residency: TX
   casestatus:
   - Arrested 1/21/2021 in Austin, Texas
-  lastupdated: 1/21/2021
+  - Currently detained pending Detention Hearing on 1/27/21 at 1:30pm in the Western
+    District of Texas.
+  lastupdated: 1/22/2021
+- casenumber: ""
+  name: FAIRLAMB, Scott Kevin
+  charges:
+  - Certain Acts During Civil Disorder; Assaulting a Federal Officer; Knowingly Entering
+    or Remaining in any Restricted Building or Grounds Without Lawful Authority; Carrying
+    a Dangerous Weapon; Violent Entry and Disorderly Conduct on Capitol Grounds
+  links:
+  - https://www.justice.gov/opa/page/file/1359221/download
+  residency: District of New Jersey
+  casestatus:
+  - Arrested 1/22/21 in the District of New Jersey
+  lastupdated: 1/22/2021
+- casenumber: 1:21-cr-06
+  name: JENSEN, Douglas Austin
+  charges:
+  - Knowingly entering or remaining in any restricted building or grounds without
+    lawful authority; disrupting the orderly conduct of government business; violent
+    entry and disorderly conduct in a Capitol building; parading, demonstrating, or
+    picketing in a Capitol building; and obstructing a law enforcement officer during
+    a civil disorder
+  links:
+  - https://www.justice.gov/opa/page/file/1353381/download
+  - https://www.justice.gov/opa/page/file/1353386/download
+  - https://www.justice.gov/opa/page/file/1353376/download
+  residency: IA
+  casestatus:
+  - ""
+  lastupdated: 1/22/2021
+- casenumber: 1:21-mj-139
+  name: MADDEN, Dominic
+  charges:
+  - knowingly enter or remain in any restricted building or grounds without lawful
+    authority to do; knowingly, and with intent to impede or disrupt the orderly conduct
+    of Government business or official functions, engage in disorderly or disruptive
+    conduct in, or within such proximity to, any restricted building or grounds when,
+    or so that, such conduct, in fact, impedes or disrupts the orderly conduct of
+    Government business or official functions; utter loud, threatening, or abusive
+    language, or engage in disorderly or disruptive conduct, at any place in the grounds
+    or in any of the Capitol buildings with the intent to impede, disrupt, or disturb
+    the orderly conduct of a session of Congress or either House of Congress; parade,
+    demonstrate, or picket in any of the Capitol buildings
+  links:
+  - https://www.justice.gov/opa/page/file/1358876/download
+  - https://www.justice.gov/opa/page/file/1359536/download
+  residency: Eastern District of New York
+  casestatus:
+  - Arrested 1/21/21 in the Eastern District of New York
+  lastupdated: 1/22/2021
+- casenumber: ""
+  name: MILLER, Garret
+  charges:
+  - Knowingly Entering or Remaining in any Restricted Buildings or Grounds Without
+    Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds; Obstructing
+    or Impeding Any Official Proceeding; Certain Acts During Civil Disorder
+  links:
+  - https://www.justice.gov/opa/page/file/1359541/download
+  residency: Northern District of Texas
+  casestatus:
+  - Arrested 1/20/21 in the Northern District of Texas. Initial appearance 1/22/21.
+    Detention hearing 1/25/21.
+  lastupdated: 1/22/2021

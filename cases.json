@@ -389,9 +389,9 @@
     "casestatus": [
       "Arrested 1/16/21 in Tennessee.",
       "Initial appearance 1/19/21 in the Middle District of Tennessee.",
-      "Detention hearing set for July 25, 2021 at 1pm."
+      "Detention hearing set for January 25, 2021 at 1pm."
     ],
-    "lastupdated": "1/21/2021"
+    "lastupdated": "1/24/2021"
   },
   {
     "casenumber": "1:21-mj-16",
@@ -822,9 +822,10 @@
     "residency": "TN",
     "casestatus": [
       "Initial appearance in the Middle District of Tennessee 1/12/21.",
-      "Preliminary/Detention hearing rescheduled to 1/22/21 at 1:00pm CST."
+      "Preliminary/Detention hearing rescheduled to 1/22/21 at 1:00pm CST. Ordered detained pending appeal.",
+      "Ordered detained and transported to DC"
     ],
-    "lastupdated": "1/21/2021"
+    "lastupdated": "1/25/2021"
   },
   {
     "casenumber": "1:21-mj-102",
@@ -1683,7 +1684,7 @@
     "casestatus": [
       "Arrested 1/19/21 in the Northern District of North Carolina"
     ],
-    "lastupdated": "1/21/2021"
+    "lastupdated": "1/25/2021"
   },
   {
     "casenumber": "1:21-mj-146",
@@ -1857,7 +1858,7 @@
     "links": [
       "https://www.justice.gov/opa/page/file/1359221/download"
     ],
-    "residency": "District of New Jersey",
+    "residency": "NJ",
     "casestatus": [
       "Arrested 1/22/21 in the District of New Jersey"
     ],
@@ -1890,7 +1891,7 @@
       "https://www.justice.gov/opa/page/file/1358876/download",
       "https://www.justice.gov/opa/page/file/1359536/download"
     ],
-    "residency": "Eastern District of New York",
+    "residency": "NY",
     "casestatus": [
       "Arrested 1/21/21 in the Eastern District of New York"
     ],
@@ -1900,15 +1901,108 @@
     "casenumber": "",
     "name": "MILLER, Garret",
     "charges": [
-      "Knowingly Entering or Remaining in any Restricted Buildings or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds; Obstructing or Impeding Any Official Proceeding; Certain Acts During Civil Disorder"
+      "Knowingly Entering or Remaining in any Restricted Buildings or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds; Obstructing or Impeding Any Official Proceeding; Certain Acts During Civil Disorder; Threats in Interstate Commerce"
     ],
     "links": [
-      "https://www.justice.gov/opa/page/file/1359541/download"
+      "https://www.justice.gov/opa/page/file/1359541/download",
+      "https://www.justice.gov/opa/page/file/1359601/download"
     ],
-    "residency": "Northern District of Texas",
+    "residency": "TX",
     "casestatus": [
       "Arrested 1/20/21 in the Northern District of Texas. Initial appearance 1/22/21. Detention hearing 1/25/21."
     ],
-    "lastupdated": "1/22/2021"
+    "lastupdated": "1/23/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "ERICSON, Andrew C.",
+    "charges": [
+      "Unlawful Entry on Restricted Buildings or Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1359591/download"
+    ],
+    "residency": "OK",
+    "casestatus": [
+      "Arrested 1/22/21 in the Eastern District of Oklahoma"
+    ],
+    "lastupdated": "1/23/2021"
+  },
+  {
+    "casenumber": "1:21-mj-144",
+    "name": "MARIOTTO, Anthony R. (aka, Tony Mariotto)",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1359631/download"
+    ],
+    "residency": "FL",
+    "casestatus": [
+      "Arrested 1/22/21 in the Southern District of Florida."
+    ],
+    "lastupdated": "1/24/2021"
+  },
+  {
+    "casenumber": "1:21-mj-32",
+    "name": "PEPE, William",
+    "charges": [
+      "One count of knowingly entering or remaining in any restricted building or grounds without law authority."
+    ],
+    "links": [
+      "https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol",
+      "https://www.justice.gov/usao-dc/press-release/file/1353211/download",
+      "https://www.justice.gov/usao-dc/press-release/file/1353216/download"
+    ],
+    "residency": "NY",
+    "casestatus": [
+      "Arrested on 1/12 in New York."
+    ],
+    "lastupdated": "1/25/2021"
+  },
+  {
+    "casenumber": "1:21-mj-151",
+    "name": "STRONG, Kevin",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly Engaging in Disorderly or Disruptive Conduct in any Restricted Building or Gorunds; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1359586/download"
+    ],
+    "residency": "CA",
+    "casestatus": [
+      "Arrested 1/22/21 in the Central District of California"
+    ],
+    "lastupdated": "1/23/2021"
+  },
+  {
+    "casenumber": "1:21-mj-123",
+    "name": "SUAREZ, Marissa A.",
+    "charges": [
+      "Knowingly Entering or Remaining ni any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1359596/download"
+    ],
+    "residency": "NJ",
+    "casestatus": [
+      "Arrested 1/22/21 in the District of New Jersey"
+    ],
+    "lastupdated": "1/23/2021"
+  },
+  {
+    "casenumber": "1:21-mj-123",
+    "name": "TODISCO, Patricia",
+    "charges": [
+      "Knowingly Entering or Remaining ni any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1359596/download"
+    ],
+    "residency": "NJ",
+    "casestatus": [
+      "Arrested 1/22/21 in the District of New Jersey"
+    ],
+    "lastupdated": "1/23/2021"
   }
 ]
