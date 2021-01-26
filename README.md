@@ -8,12 +8,19 @@ The case files reflect data that is available in the table at the above [justice
 
 ## Lists
 
-Sort and count by case numbers or names.
+Unique casenumbers:
 
 ```bash
 jq -c '.[].casenumber' cases.json | sort | uniq -c
 ```
 
+Unique names:
+
 ```bash
 jq -c '.[].name' cases.json | sort | uniq -c
+```
+
+Names with missing casenumbers:
+```bash
+jq -c '.[] | select(.casenumber=="") | .name ' cases.json | sort
 ```
