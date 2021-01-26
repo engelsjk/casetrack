@@ -323,7 +323,7 @@
   charges:
   - One count of knowingly entering or remaining in any restricted building or grounds
     without lawful authority; and one count of violent entry and disorderly conduct
-    on Capitol Grounds. Evans was taken into custody Friday
+    on Capitol Grounds.
   links:
   - https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol
   - https://www.justice.gov/usao-dc/press-release/file/1351946/download
@@ -1580,7 +1580,7 @@
   residency: FL
   casestatus:
   - Arrested 1/22/21 in the Southern District of Florida.
-  lastupdated: 1/24/2021
+  lastupdated: 1/26/2021
 - casenumber: 1:21-mj-32
   name: PEPE, William
   charges:
@@ -1645,7 +1645,7 @@
   residency: WV
   casestatus:
   - Arrested 1/19/2021 in Southern District of West Virginia
-  lastupdated: 1/25/2021
+  lastupdated: 1/26/2021
 - casenumber: ""
   name: MILLER, Matthew Ryan
   charges:
@@ -1659,21 +1659,6 @@
   residency: MD
   casestatus:
   - Arrested 1/25/2021 in the District of Maryland
-  lastupdated: 1/25/2021
-- casenumber: 1:21-mj-12
-  name: RUSKTALES, Bradley
-  charges:
-  - Knowingly entering or remaining in any restricted building or grounds without
-    lawful authority; or knowingly, with intent to impede government business or official
-    functions, engaging in disorderly conduct on Capitol grounds; and violent entry
-    and disorderly conduct on Capitol grounds.
-  links:
-  - https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol
-  - https://www.justice.gov/opa/press-release/file/1351716/download
-  - https://www.justice.gov/opa/press-release/file/1351721/download
-  residency: IL
-  casestatus:
-  - ""
   lastupdated: 1/25/2021
 - casenumber: 1:21-mj-124
   name: STEELE-SMITH, Melody
@@ -1698,4 +1683,19 @@
   residency: NE
   casestatus:
   - Arrested 1/25/21 in the District of Nebraska
+  lastupdated: 1/26/2021
+- casenumber: 1:21-mj-12
+  name: RUKSTALES, Bradley
+  charges:
+  - Knowingly entering or remaining in any restricted building or grounds without
+    lawful authority; or knowingly, with intent to impede government business or official
+    functions, engaging in disorderly conduct on Capitol grounds; and violent entry
+    and disorderly conduct on Capitol grounds.
+  links:
+  - https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol
+  - https://www.justice.gov/opa/press-release/file/1351716/download
+  - https://www.justice.gov/opa/press-release/file/1351721/download
+  residency: IL
+  casestatus:
+  - ""
   lastupdated: 1/25/2021
