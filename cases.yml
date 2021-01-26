@@ -317,7 +317,8 @@
   - Arrested 1/16/21 in Tennessee.
   - Initial appearance 1/19/21 in the Middle District of Tennessee.
   - Detention hearing set for January 25, 2021 at 1pm.
-  lastupdated: 1/24/2021
+  - Ordered detained and transported to DC.
+  lastupdated: 1/26/2021
 - casenumber: 1:21-mj-16
   name: EVANS, Derrick
   charges:
@@ -1633,7 +1634,7 @@
   - Initial appearance 1/25/21. Released on conditions.
   - Appearance on 1/27/21 in federal court in the District of Columbia
   lastupdated: 1/25/2021
-- casenumber: ""
+- casenumber: 1:21-mj-82
   name: COURTRIGHT, Gracyn Dawn
   charges:
   - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
@@ -1658,8 +1659,9 @@
   - https://www.justice.gov/opa/page/file/1360201/download
   residency: MD
   casestatus:
-  - Arrested 1/25/2021 in the District of Maryland
-  lastupdated: 1/25/2021
+  - Arrested 1/25/2021 in the District of Maryland.
+  - Ordered detained.
+  lastupdated: 1/26/2021
 - casenumber: 1:21-mj-124
   name: STEELE-SMITH, Melody
   charges:
@@ -1671,7 +1673,7 @@
   casestatus:
   - Arrested in the Eastern District of Virginia on 1/20/2021
   lastupdated: 1/25/2021
-- casenumber: ""
+- casenumber: 1:21-mj-134
   name: STRAKA, Brandon
   charges:
   - Impeding law enforcement officer during civil disorder; knowingly entering and
@@ -1699,3 +1701,41 @@
   casestatus:
   - ""
   lastupdated: 1/25/2021
+- casenumber: ""
+  name: DECARLO, Nicholas
+  charges:
+  - Obstructing or Impeding any Official Proceeding; Knowingly Entering or Remaining
+    in any Restricted Building or Grounds Without Lawful Authority; Parading or Demonstrating
+    on Capitol Grounds
+  links:
+  - https://www.justice.gov/opa/page/file/1360496/download
+  residency: TX
+  casestatus:
+  - Arrested 1/26/21 in the Northern District of Texas
+  lastupdated: 1/26/2021
+- casenumber: 1:21-mj-163
+  name: GRAYSON, Kenneth
+  charges:
+  - Knowingly entering or remaining in any restricted building or grounds; Disorderly
+    conduct which impedes the conduct of government business; Disruptive Conduct in
+    the Capitol Buildings; Parading, Demonstrating, or Picketing in the Capitol Buildings;
+    Obstructing or Impeding Any Official Proceeding
+  links:
+  - https://www.justice.gov/opa/page/file/1360506/download
+  residency: PA
+  casestatus:
+  - Arrested 1/26/21 in the Western District of Pennsylvania
+  lastupdated: 1/26/2021
+- casenumber: 1:21-mj-159
+  name: VOGEL, William
+  charges:
+  - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
+    Lawful Authority; Knowingly Engages in Disorderly or Disruptive Conduct in any
+    Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol
+    Grounds
+  links:
+  - https://www.justice.gov/opa/page/file/1360591/download
+  residency: NY
+  casestatus:
+  - Arrested 1/26/21 in the Southern District of New York
+  lastupdated: 1/26/2021
