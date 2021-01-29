@@ -287,9 +287,11 @@
     ],
     "residency": "FL",
     "casestatus": [
-      "Arrested 1/14/21 in the Middle District of Florida. Initial Appearance 1/14/21 in the Middle District of Florida."
+      "Arrested 1/14/21 in the Middle District of Florida. Initial Appearance 1/14/21 in the Middle District of Florida.",
+      "Released on personal recognizance bond.",
+      "Status hearing set for 2/11/21 at 11:00am in telephonic."
     ],
-    "lastupdated": "1/21/2021"
+    "lastupdated": "1/28/2021"
   },
   {
     "casenumber": "1:21-mj-119",
@@ -1629,7 +1631,7 @@
     "casestatus": [
       "Arrested 1/20/21 in the Northern District of Florida. Initial Appearance 1/20/21 at 3:00pm CST."
     ],
-    "lastupdated": "1/21/2021"
+    "lastupdated": "1/29/2021"
   },
   {
     "casenumber": "1:21-mj-108",
@@ -1828,23 +1830,6 @@
   },
   {
     "casenumber": "",
-    "name": "GRIDER, Christoper Ray",
-    "charges": [
-      "Government Property or Contracts; Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds"
-    ],
-    "links": [
-      "https://www.justice.gov/file/1358251/download",
-      "https://www.justice.gov/opa/page/file/1358246/download"
-    ],
-    "residency": "TX",
-    "casestatus": [
-      "Arrested 1/21/2021 in Austin, Texas",
-      "Currently detained pending Detention Hearing on 1/27/21 at 1:30pm in the Western District of Texas."
-    ],
-    "lastupdated": "1/22/2021"
-  },
-  {
-    "casenumber": "",
     "name": "FAIRLAMB, Scott Kevin",
     "charges": [
       "Certain Acts During Civil Disorder; Assaulting a Federal Officer; Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Carrying a Dangerous Weapon; Violent Entry and Disorderly Conduct on Capitol Grounds"
@@ -1921,7 +1906,7 @@
     "casestatus": [
       "Arrested 1/22/21 in the Eastern District of Oklahoma"
     ],
-    "lastupdated": "1/23/2021"
+    "lastupdated": "1/28/2021"
   },
   {
     "casenumber": "1:21-mj-144",
@@ -2031,9 +2016,10 @@
     "residency": "MD",
     "casestatus": [
       "Arrested 1/25/2021 in the District of Maryland.",
-      "Ordered detained."
+      "Ordered detained.",
+      "Preliminary hearing (telephonic/VTC) set for 2/8/21 at 1:00pm"
     ],
-    "lastupdated": "1/26/2021"
+    "lastupdated": "1/29/2021"
   },
   {
     "casenumber": "1:21-mj-124",
@@ -2169,9 +2155,10 @@
     ],
     "residency": "IL",
     "casestatus": [
-      "Arrested 1/26/21 in the Southern District of Illinois"
+      "Arrested 1/26/21 in the Southern District of Illinois",
+      "Initial appearance 1/29/21 at 9:30am CT in the Southern District of Illinois."
     ],
-    "lastupdated": "1/27/2021"
+    "lastupdated": "1/29/2021"
   },
   {
     "casenumber": "",
@@ -2186,7 +2173,7 @@
     "casestatus": [
       "Arrested 1/19/21 in the District of Arizona"
     ],
-    "lastupdated": "1/27/2021"
+    "lastupdated": "1/28/2021"
   },
   {
     "casenumber": "1:21-mj-160",
@@ -2372,7 +2359,7 @@
     "casestatus": [
       "Arrested 1/25/21 in the Western District of Kentucky"
     ],
-    "lastupdated": "1/27/2021"
+    "lastupdated": "1/28/2021"
   },
   {
     "casenumber": "1:21-mj-77",
@@ -2400,9 +2387,10 @@
     ],
     "residency": "CA",
     "casestatus": [
-      "Arrested 1/28/21 in the Central District of California. Initial appearance 1/28/21 at 2:00pm PST in the Central District of California."
+      "Arrested 1/28/21 in the Central District of California. Initial appearance 1/28/21 at 2:00pm PST in the Central District of California.",
+      "Released on bond. Next hearing (virtual) on 2/3/21 in federal court in the District of Columbia."
     ],
-    "lastupdated": "1/28/2021"
+    "lastupdated": "1/29/2021"
   },
   {
     "casenumber": "1:21-mj-153",
@@ -2448,5 +2436,188 @@
       "Arrested 1/26/21 in the Southern District of Indiana"
     ],
     "lastupdated": "1/27/2021"
+  },
+  {
+    "casenumber": "1:21-mj-164",
+    "name": "BONET, James",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Disorderly Conduct on Capitol Grounds"
+    ],1:21-mj-70
+    "residency": "NY",
+    "casestatus": [
+      "Arrested 1/27/21 in the Northern District of New York"
+    ],
+    "lastupdated": "1/28/2021"
+  },
+  {
+    "casenumber": "1:21-mj-184",
+    "name": "DEGRAVE, Nathaniel J. (aka, Nathan Degrave)",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds; Obstruction of Law Enforcement During Civil Disorder"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1362391/download"
+    ],
+    "residency": "NV",
+    "casestatus": [
+      "Arrested 1/28/21 in the District of Nevada"
+    ],
+    "lastupdated": "1/29/2021"
+  },
+  {
+    "casenumber": "1:21-mj-148",
+    "name": "GERDING, Christina",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly Engaging in Disorderly or disruptive Conduct in any Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1361586/download"
+    ],
+    "residency": "IL",
+    "casestatus": [
+      "Arrested 1/28/21 in the Central District of Illinois",
+      "Defendant released on conditions. Next hearing 2/2/21 at 1:00pm via video in federal court in the District of Columbia."
+    ],
+    "lastupdated": "1/29/2021"
+  },
+  {
+    "casenumber": "1:21-mj-148",
+    "name": "GERDING, Jason",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly Engaging in Disorderly or disruptive Conduct in any Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1361581/download"
+    ],
+    "residency": "IL",
+    "casestatus": [
+      "Arrested 1/28/21 in the Central District of Illinois",
+      "Defendant released on conditions. Next hearing 2/2/21 at 1:00pm via video in federal court in the District of Columbia."
+    ],
+    "lastupdated": "1/29/2021"
+  },
+  {
+    "casenumber": "1:21-cr-22",
+    "name": "GRIDER, Christopher Ray",
+    "charges": [
+      "Government Property or Contracts; Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/file/1358251/download",
+      "https://www.justice.gov/opa/page/file/1358246/download"
+    ],
+    "residency": "TX",
+    "casestatus": [
+      "Arrested 1/21/2021 in Austin, Texas",
+      "Currently detained pending Detention Hearing on 1/27/21 at 1:30pm in the Western District of Texas."
+    ],
+    "lastupdated": "1/29/2021"
+  },
+  {
+    "casenumber": "1:21-mj-161",
+    "name": "GUNDERSEN, Brian",
+    "charges": [
+      "Knowingly entering or remaining in any restricted building or grounds without lawful authority; Knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; Engaging in disorderly or disruptive conduct on the Capitol buildings or grounds; parading, demonstrating, or picketing in the Capitol buildings"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1361271/download"
+    ],
+    "residency": "PA",
+    "casestatus": [
+      "Arrested 1/27/21 in the Middle District of Pennsylvania"
+    ],
+    "lastupdated": "1/28/2021"
+  },
+  {
+    "casenumber": "1:21-mj-150",
+    "name": "MARTIN, Zachary Hayes (aka Zac Martin)",
+    "charges": [
+      "Restricted Building or Grounds; Unlawful Activities on Capitol Grounds, Disorderly Conduct and Demonstrating in the Capitol Building"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1361576/download"
+    ],
+    "residency": "MO",
+    "casestatus": [
+      "Arrested 1/28/21 in the Western District of Missouri"
+    ],
+    "lastupdated": "1/28/2021"
+  },
+  {
+    "casenumber": "1:21-mj-135",
+    "name": "MCAULIFFE, Justin",
+    "charges": [
+      "Knowingly entering and remaining on restricted grounds without lawful authority and/or engaging in disorderly conduct within proximity to a restricted building to impede official functions"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1361466/download"
+    ],
+    "residency": "NY",
+    "casestatus": [
+      "Arrested 1/28/2021 in the Eastern District of New York"
+    ],
+    "lastupdated": "1/28/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "MONCADA, Nicolas Anthony",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1361471/download"
+    ],
+    "residency": "NY",
+    "casestatus": [
+      "Arrested 1/18/21 in the Eastern District of New York"
+    ],
+    "lastupdated": "1/28/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "SANDLIN, Ronald L.",
+    "charges": [
+      "Obstructing Law Enforcement Engaged in Official Duties Incident to Civil Disorder; Obstructing Law Enforcement Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1362396/download"
+    ],
+    "residency": "NV",
+    "casestatus": [
+      "Arrested 1/28/21 in the District of Nevada"
+    ],
+    "lastupdated": "1/29/2021"
+  },
+  {
+    "casenumber": "1:21-mj-157",
+    "name": "SMITH, Jeffrey Alexander (aka, Alex Smith)",
+    "charges": [
+      "Violent Entry and Disorderly Conduct on Capitol Grounds; Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1361426/download"
+    ],
+    "residency": "CA",
+    "casestatus": [
+      "Arrested 1/27/21 in the Southern District of California",
+      "Released on bond. Next hearing (remote) 2/3/21 at 1:00pm EST in federal court in the District of Columbia."
+    ],
+    "lastupdated": "1/29/2021"
+  },
+  {
+    "casenumber": "1:21-mj-166",
+    "name": "STEPAKOFF, Michael",
+    "charges": [
+      "Knowingly Entering or Remaining in any restricted Building or Grounds Without Lawful Authority; Knowingly Engages in Disorderly or Disruptive Conduct in any Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1362386/download"
+    ],
+    "residency": "FL",
+    "casestatus": [
+      "Arrested 1/29/21 in the Middle District of Florida.",
+      "Initial appearance 1/29/21 at 2:00pm in the Middle District of Florida."
+    ],
+    "lastupdated": "1/29/2021"
   }
 ]
