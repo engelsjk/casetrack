@@ -744,20 +744,6 @@
   casestatus:
   - Arrested on 1/12 in New York.
   lastupdated: 1/21/2021
-- casenumber: 1:21-mj-47
-  name: PEZZOLA, Dominic
-  charges:
-  - Obstruction of an official proceeding; destruction of government property; restricted
-    buildings or grounds
-  links:
-  - https://www.justice.gov/usao-dc/pr/rochester-new-york-man-arrested-and-charged-destroying-property-and-obstruction
-  - https://www.justice.gov/opa/page/file/1355181/download
-  - https://www.justice.gov/opa/page/file/1355186/download
-  residency: NY
-  casestatus:
-  - Arrested 1/15/21. Initial appearance in the Western District of New York on 1/15/21
-    at 2pm.
-  lastupdated: 1/21/2021
 - casenumber: 1:21-mj-9
   name: PRUITT, Joshua
   charges:
@@ -1586,16 +1572,19 @@
 - casenumber: 1:21-mj-32
   name: PEPE, William
   charges:
-  - One count of knowingly entering or remaining in any restricted building or grounds
-    without law authority.
+  - Conspiracy; Assaulting, Resisting, or Impeding Certain Officers; Civil Disorder;
+    Government Property or Contracts; Obstruction of an Official Proceeding; Robbery
+    of Personal Property of the United States; Restricted Building or Grounds; Aiding
+    and Abetting
   links:
   - https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol
   - https://www.justice.gov/usao-dc/press-release/file/1353211/download
   - https://www.justice.gov/usao-dc/press-release/file/1353216/download
+  - https://www.justice.gov/file/1362646/download
   residency: NY
   casestatus:
   - Arrested on 1/12 in New York.
-  lastupdated: 1/25/2021
+  lastupdated: 1/30/2021
 - casenumber: 1:21-mj-151
   name: STRONG, Kevin
   charges:
@@ -1788,6 +1777,7 @@
   casestatus:
   - Arrested 1/26/21 in the Southern District of Illinois
   - Initial appearance 1/29/21 at 9:30am CT in the Southern District of Illinois.
+  - Released on bond with conditions.
   lastupdated: 1/29/2021
 - casenumber: ""
   name: HATLEY, Andrew
@@ -2022,18 +2012,6 @@
   casestatus:
   - Arrested 1/27/21 in the Northern District of New York
   lastupdated: 1/28/2021
-- casenumber: 1:21-mj-184
-  name: DEGRAVE, Nathaniel J. (aka, Nathan Degrave)
-  charges:
-  - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
-    Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds; Obstruction
-    of Law Enforcement During Civil Disorder
-  links:
-  - https://www.justice.gov/opa/page/file/1362391/download
-  residency: NV
-  casestatus:
-  - Arrested 1/28/21 in the District of Nevada
-  lastupdated: 1/29/2021
 - casenumber: 1:21-mj-148
   name: GERDING, Christina
   charges:
@@ -2138,7 +2116,8 @@
   - https://www.justice.gov/opa/page/file/1362396/download
   residency: NV
   casestatus:
-  - Arrested 1/28/21 in the District of Nevada
+  - Arrested 1/28/21 in the District of Nevada.
+  - Initial appearance 2/1/21 at 3:00pm in the District of Nevada.
   lastupdated: 1/29/2021
 - casenumber: 1:21-mj-157
   name: SMITH, Jeffrey Alexander (aka, Alex Smith)
@@ -2166,4 +2145,62 @@
   casestatus:
   - Arrested 1/29/21 in the Middle District of Florida.
   - Initial appearance 1/29/21 at 2:00pm in the Middle District of Florida.
+  - Released on bond with conditions. Next hearing (virtual) 2/4/21 at 1:00pm in federal
+    court in the District of Columbia.
+  lastupdated: 1/29/2021
+- casenumber: 1:21-mj-182
+  name: BANCROFT, Dawn
+  charges:
+  - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
+    Lawful Authority; Knowingly Engaging in Disorderly or Disruptive Conduct in any
+    Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol
+    Grounds
+  links:
+  - https://www.justice.gov/opa/page/file/1362581/download
+  residency: PA
+  casestatus:
+  - Arrested 1/29/21 in the  Eastern District of Pennsylvania.
+  lastupdated: 1/29/2021
+- casenumber: 1:21-mj-184
+  name: DEGRAVE, Nathaniel J. (aka, Nathan DeGrave)
+  charges:
+  - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
+    Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds; Obstruction
+    of Law Enforcement During Civil Disorder
+  links:
+  - https://www.justice.gov/opa/page/file/1362391/download
+  residency: NV
+  casestatus:
+  - Arrested 1/28/21 in the District of Nevada
+  - Initial appearance 2/1/21 at 3:00pm in the District of Nevada.
+  lastupdated: 1/29/2021
+- casenumber: 1:21-mj-47
+  name: PEZZOLA, Dominic (aka Spaz, aka Spazzo, Aka Spazzolini)
+  charges:
+  - Conspiracy; Assaulting, Resisting, or Impeding Certain Officers; Civil Disorder;
+    Government Property or Contracts; Obstruction of an Official Proceeding; Robbery
+    of Personal Property of the United States; Restricted Building or Grounds; Aiding
+    and Abetting
+  links:
+  - https://www.justice.gov/usao-dc/pr/rochester-new-york-man-arrested-and-charged-destroying-property-and-obstruction
+  - https://www.justice.gov/opa/page/file/1355181/download
+  - https://www.justice.gov/opa/page/file/1355186/download
+  - https://www.justice.gov/file/1362646/download
+  residency: NY
+  casestatus:
+  - Arrested 1/15/21. Initial appearance in the Western District of New York on 1/15/21
+    at 2pm.
+  lastupdated: 1/30/2021
+- casenumber: 1:21-mj-182
+  name: SANTOS-SMITH, Diana
+  charges:
+  - Knowingly Entering or Remaining in any Restricted Building or Grounds Without
+    Lawful Authority; Knowingly Engaging in Disorderly or Disruptive Conduct in any
+    Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol
+    Grounds
+  links:
+  - https://www.justice.gov/opa/page/file/1362581/download
+  residency: PA
+  casestatus:
+  - Arrested 1/29/21 in the  Eastern District of Pennsylvania.
   lastupdated: 1/29/2021
