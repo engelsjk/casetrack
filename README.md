@@ -4,7 +4,12 @@ A tracker of cases listed at [USDOJ: Investigations Regarding Violence at the Ca
 
 ## Additional
 
-The case files reflect data that is available in the table at the above [justice.gov](https://www.justice.gov/opa/investigations-regarding-violence-capitol) webpage. This may be an incomplete listing of cases at any given moment. Some supplemental information (e.g. residency) has been manually added to the case files based on information available at the [Capitol Hill Cases](https://extremism.gwu.edu/Capitol-Hill-Cases) page provided by [GWU's Program on Extremism](https://extremism.gwu.edu/).
+The case files reflect data that is available in the table at the above [justice.gov](https://www.justice.gov/opa/investigations-regarding-violence-capitol) webpage. This may be an incomplete listing of cases at any given moment.
+
+For additional information, refer to the following resources:
+* [GWU: Capitol Hill Cases](https://extremism.gwu.edu/Capitol-Hill-Cases)
+* [USA TODAY: CApitol Riot Arrests](https://www.usatoday.com/storytelling/capitol-riot-mob-arrests/)
+* [First Virgil: The Insurrectionists](https://first-vigil.com/pages/details/insurrection/)
 
 ## Lists
 
