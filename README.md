@@ -8,7 +8,7 @@ The case files reflect data that is available in the table at the above [justice
 
 For additional information, refer to the following resources:
 * [GWU: Capitol Hill Cases](https://extremism.gwu.edu/Capitol-Hill-Cases)
-* [USA TODAY: CApitol Riot Arrests](https://www.usatoday.com/storytelling/capitol-riot-mob-arrests/)
+* [USA TODAY: Capitol Riot Arrests](https://www.usatoday.com/storytelling/capitol-riot-mob-arrests/)
 * [First Virgil: The Insurrectionists](https://first-vigil.com/pages/details/insurrection/)
 
 ## Lists
