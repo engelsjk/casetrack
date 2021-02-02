@@ -2059,7 +2059,7 @@
     "lastupdated": "1/25/2021"
   },
   {
-    "casenumber": "",
+    "casenumber": "1:21-mj-120",
     "name": "DECARLO, Nicholas",
     "charges": [
       "Obstructing or Impeding any Official Proceeding; Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Parading or Demonstrating on Capitol Grounds"
@@ -2104,7 +2104,7 @@
     "lastupdated": "1/26/2021"
   },
   {
-    "casenumber": "",
+    "casenumber": "1:21-mj-137",
     "name": "ALLAN, Tommy Frederick",
     "charges": [
       "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly Engages in Disorderly or Disruptive Conduct in any Restricted Building or Grounds; Violent Entry and Disorderly Conduct on capitol Grounds; Theft of Government Property (under $1,000)"
@@ -2134,7 +2134,7 @@
     "lastupdated": "1/27/2021"
   },
   {
-    "casenumber": "",
+    "casenumber": "1:21-mj-122",
     "name": "CAPSEL, Matthew",
     "charges": [
       "Knowingly entering or remaining in any restricted building or grounds without lawful authority; and knowingly engages in any physical violence against any person or property in any restricted building or grounds; or attempts or conspires to do so; Forcibly assaulted, resisted, opposed, impeded, intimidated, or interfered with any officer or employee of the United States or of any agency in any branch of the United States Government (including any member of the uniformed services) while engaged in or on account of the performance of official duties; Committed or attempted to commit any act to obstruct, impede, or interfere with law enforcement officer lawfully engaged in the lawful performance of his official duties incident to and during the commission of a civil disorder which in any way or degree obstructs, delays, or adversely affects commerce or the movement of any article or commodity in commerce or the conduct or performance of any federally protected function."
@@ -2151,7 +2151,7 @@
     "lastupdated": "1/29/2021"
   },
   {
-    "casenumber": "",
+    "casenumber": "1:21-mj-78",
     "name": "HATLEY, Andrew",
     "charges": [
       "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly, With Intent to Impede Government Business or Official Functions, Engaging in Disorderly Conduct on Capitol Grounds; Engaging in disorderly or Disruptive Conduct on Capitol Buildings or Grounds; Parading Demostrating, or Picketing in the Capitol Buildings"
@@ -2182,7 +2182,7 @@
     "lastupdated": "1/27/2021"
   },
   {
-    "casenumber": "",
+    "casenumber": "1:21-mj-125",
     "name": "PHIPPS, Daniel D.",
     "charges": [
       "Knowingly Entering or Remaining in any restricted Building or Grounds Without Lawful Authority and Impeding or Disrupting Official Functions; Violent Entry and Disorderly Conduct on Capitol Grounds"
@@ -2322,7 +2322,7 @@
     "lastupdated": "1/28/2021"
   },
   {
-    "casenumber": "",
+    "casenumber": "1:21-mj-158",
     "name": "ORTIZ, Christopher W.",
     "charges": [
       "Knowingly entering or remaining in any restricted building or grounds without lawful authority; violent entry and disorderly conduct on Capitol grounds"
@@ -2337,7 +2337,7 @@
     "lastupdated": "1/28/2021"
   },
   {
-    "casenumber": "",
+    "casenumber": "1:21-mj-130",
     "name": "REVLETT, Jordan T",
     "charges": [
       "Unlawful Entry on Restricted Grounds; Violent Entry or Disorderly Conduct"
@@ -2680,7 +2680,7 @@
     "lastupdated": "2/1/2021"
   },
   {
-    "casenumber": "",
+    "casenumber": "1:21-mj-63",
     "name": "GOODWYN, Daniel",
     "charges": [
       "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds"
@@ -2706,6 +2706,36 @@
     "residency": "PA",
     "casestatus": [
       "Arrested 1/30/21 in the Eastern District of Pennsylvania"
+    ],
+    "lastupdated": "2/1/2021"
+  },
+  {
+    "casenumber": "1:21-mj-165",
+    "name": "ALAM, Zachary Jordan",
+    "charges": [
+      "Assault on a Federal Officer with a Dangerous or Deadly Weapon; Destruction of Government Property over $1,000; Obstruction of an Official Proceeding; Unlawful Entry on Restricted Building or Grounds; Violent Entry and Disorderly Conduct"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1362956/download"
+    ],
+    "residency": "PA",
+    "casestatus": [
+      "Arrested 1/30/21 in the Eastern District of Pennsylvania"
+    ],
+    "lastupdated": "2/1/2021"
+  },
+  {
+    "casenumber": "1:21-mj-128",
+    "name": "KELLY, Christopher M.",
+    "charges": [
+      "Obstruction of an Official Proceeding; Aiding and Abetting; Unlawful Entry to Restricted Building or Grounds; Violent Entry and Disorderly Conduct"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1362961/download"
+    ],
+    "residency": "NY",
+    "casestatus": [
+      "Arrested in the Southern District of New York on 1/20/21"
     ],
     "lastupdated": "2/1/2021"
   }
