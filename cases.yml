@@ -1296,7 +1296,7 @@
   casestatus:
   - Arrested 1/19/21 in the Southern District of New York
   - Indicted 1/29/21
-  lastupdated: 2/1/2021
+  lastupdated: 2/2/2021
 - casenumber: 2:21-mj-105
   name: MINK, Jordan Robert
   charges:
@@ -2129,7 +2129,8 @@
   casestatus:
   - Arrested 1/28/21 in the District of Nevada.
   - Initial appearance 2/1/21 at 3:00pm in the District of Nevada.
-  lastupdated: 1/29/2021
+  - Ordered detained. Preliminary hearings set for 2/16/21.
+  lastupdated: 2/2/2021
 - casenumber: 1:21-mj-157
   name: SMITH, Jeffrey Alexander (aka, Alex Smith)
   charges:
@@ -2184,7 +2185,8 @@
   casestatus:
   - Arrested 1/28/21 in the District of Nevada
   - Initial appearance 2/1/21 at 3:00pm in the District of Nevada.
-  lastupdated: 1/29/2021
+  - Ordered detained. Preliminary hearings set for 2/16/21
+  lastupdated: 2/2/2021
 - casenumber: 1:21-mj-47
   name: PEZZOLA, Dominic (aka Spaz, aka Spazzo, Aka Spazzolini)
   charges:
@@ -2237,7 +2239,7 @@
   residency: Texas, Eastern District
   casestatus:
   - Arrested 1/29/2021 in the Eastern District of Texas
-  lastupdated: 2/1/2021
+  lastupdated: 2/2/2021
 - casenumber: 1:21-mj-188
   name: SAMSEL, Ryan
   charges:
@@ -2252,7 +2254,7 @@
   residency: PA
   casestatus:
   - Arrested 1/30/21 in the Eastern District of Pennsylvania
-  lastupdated: 2/1/2021
+  lastupdated: 2/2/2021
 - casenumber: 1:21-mj-165
   name: ALAM, Zachary Jordan
   charges:
@@ -2264,7 +2266,7 @@
   residency: PA
   casestatus:
   - Arrested 1/30/21 in the Eastern District of Pennsylvania
-  lastupdated: 2/1/2021
+  lastupdated: 2/2/2021
 - casenumber: 1:21-mj-128
   name: KELLY, Christopher M.
   charges:
@@ -2275,4 +2277,5 @@
   residency: NY
   casestatus:
   - Arrested in the Southern District of New York on 1/20/21
-  lastupdated: 2/1/2021
+  - Initial appearance 2/9/21 via video teleconference.
+  lastupdated: 2/2/2021
