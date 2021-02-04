@@ -10,6 +10,7 @@ For additional information, refer to the following resources:
 * [GWU: Capitol Hill Cases](https://extremism.gwu.edu/Capitol-Hill-Cases)
 * [USA TODAY: Capitol Riot Arrests](https://www.usatoday.com/storytelling/capitol-riot-mob-arrests/)
 * [First Virgil: The Insurrectionists](https://first-vigil.com/pages/details/insurrection/)
+* [NYTimes: Arrested in Capitol Riot](https://www.nytimes.com/interactive/2021/02/04/us/capitol-arrests.html)
 
 ## Lists
 

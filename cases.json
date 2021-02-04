@@ -2478,18 +2478,19 @@
     "casenumber": "1:21-cr-22",
     "name": "GRIDER, Christopher Ray",
     "charges": [
-      "Government Property or Contracts; Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds"
+      "Destruction of Government Property; Aiding and Abetting; Entering and Remaining in a Restricted Building or Grounds; Disorderly and Disruptive Conduct in a Restricted Building or Grounds; Obstruction of an Official Proceeding; Disorderly Conduct in a Capitol Building; Impeding Passage Through the Capitol Grounds or Buildings; Act of Physical Violence in the Capitol Grounds or Buildings"
     ],
     "links": [
       "https://www.justice.gov/file/1358251/download",
-      "https://www.justice.gov/opa/page/file/1358246/download"
+      "https://www.justice.gov/opa/page/file/1358246/download",
+      "https://www.justice.gov/opa/page/file/1364161/download"
     ],
     "residency": "TX",
     "casestatus": [
       "Arrested 1/21/2021 in Austin, Texas",
       "Currently detained pending Detention Hearing on 1/27/21 at 1:30pm in the Western District of Texas."
     ],
-    "lastupdated": "1/29/2021"
+    "lastupdated": "2/3/2021"
   },
   {
     "casenumber": "1:21-mj-161",
@@ -2741,5 +2742,305 @@
       "Initial appearance 2/9/21 via video teleconference."
     ],
     "lastupdated": "2/2/2021"
+  },
+  {
+    "casenumber": "1:21-cr-62",
+    "name": "BARANYI, Thomas",
+    "charges": [
+      "Restricted building or grounds; violent entry or disorderly conduct"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1355731/download",
+      "https://www.justice.gov/opa/page/file/1356466/download"
+    ],
+    "residency": "New Jersey",
+    "casestatus": [
+      "Arrested on 1/12/21. Initial appearance in the District of New Jersey on 1/12/21"
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-cr-38",
+    "name": "BARNETT, Richard",
+    "charges": [
+      "Obstruction of an Official Proceeding; Aiding and Abetting; Entering and Remaining in a Restricted Building or Grounds with a Deadly or Dangerous Weapon; Disorderly and Disruptive Conduct in a Restricted Building or Grounds with a Deadly or Dangerous Weapon; Entering and Remaining in Certain Rooms in the Capitol Building; Disorderly Conduct in a Capitol Building; Parading, Demonstrating, or Picketing in a Capitol Building; Theft of Government Property"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/pr/man-arrested-illegally-entering-office-speaker-house",
+      "https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol",
+      "https://www.justice.gov/opa/press-release/file/1351656/download",
+      "https://www.justice.gov/usao-dc/press-release/file/1353191/download",
+      "https://www.justice.gov/usao-dc/press-release/file/1353231/download",
+      "https://www.justice.gov/opa/page/file/1364156/download"
+    ],
+    "residency": "Arkansas, Western District",
+    "casestatus": [
+      "Initial Appearance 1/12/21 at 3pm CST (virtual – WDAR District Court)"
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-cr-41",
+    "name": "BROWN, Terry",
+    "charges": [
+      "Knowingly entering or remaining in any restricted building or grounds without lawful authority; or knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; and violent entry and disorderly conduct on Capitol grounds."
+    ],
+    "links": [
+      "https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol",
+      "https://www.justice.gov/opa/press-release/file/1351716/download",
+      "https://www.justice.gov/opa/press-release/file/1351721/download"
+    ],
+    "residency": "Pennsylvania",
+    "casestatus": [
+      "Arrested on 1/11/21. Released on conditions.",
+      "The preliminary hearing is scheduled for Tuesday  January 19, 2021 at 10:00 a.m."
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-cr-41",
+    "name": "CURZIO, Michael",
+    "charges": [
+      "Knowingly entering or remaining in any restricted building or grounds without lawful authority; or knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; and violent entry and disorderly conduct on Capitol grounds."
+    ],
+    "links": [
+      "https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol",
+      "https://www.justice.gov/opa/press-release/file/1351716/download",
+      "https://www.justice.gov/opa/press-release/file/1351721/download"
+    ],
+    "residency": "Florida, Middle District",
+    "casestatus": [
+      "Initial appearance in the Middle District of Florida on 1/14/2021"
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-cr-41",
+    "name": "FITCHETT, Cindy",
+    "charges": [
+      "Knowingly entering or remaining in any restricted building or grounds without lawful authority; or knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; and violent entry and disorderly conduct on Capitol grounds."
+    ],
+    "links": [
+      "https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol",
+      "https://www.justice.gov/opa/press-release/file/1351716/download",
+      "https://www.justice.gov/opa/press-release/file/1351721/download"
+    ],
+    "residency": "Virginia",
+    "casestatus": [
+      ""
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-cr-41",
+    "name": "GALLAGHER, Thomas",
+    "charges": [
+      "Knowingly entering or remaining in any restricted building or grounds without lawful authority; or knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; and violent entry and disorderly conduct on Capitol grounds."
+    ],
+    "links": [
+      "https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol",
+      "https://www.justice.gov/opa/press-release/file/1351716/download",
+      "https://www.justice.gov/opa/press-release/file/1351721/download"
+    ],
+    "residency": "New Hampshire",
+    "casestatus": [
+      ""
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-mj-70",
+    "name": "GOLD, Simone Melissa",
+    "charges": [
+      "Restricted Building or Grounds; Violent Entry and Disorderly Conduct"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1356546/download",
+      "https://www.justice.gov/opa/page/file/1356551/download"
+    ],
+    "residency": "California, Central District",
+    "casestatus": [
+      "Arrested 1/18/21 in the Central District of California",
+      "Released on conditions. Virtual hearing in federal court in the District of Columbia on 1/21/21 at 1:00pm."
+    ],
+    "lastupdated": "1/22/2021"
+  },
+  {
+    "casenumber": "1:21-mj-115",
+    "name": "GOSSJANKOWSKI, Vitali",
+    "charges": [
+      "Knowingly enter or remain in any restricted building or grounds without lawful authority to do so; knowingly, and with intent to impede or disrupt the orderly conduct of Government business or official functions, engage in disorderly or disruptive conduct in, or within such proximity to, any restricted building or grounds when, or so that, such conduct, in fact, impedes or disrupts the orderly conduct of Government business or official functions; and did so while using or carrying a dangerous weapon."
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1356136/download",
+      "https://www.justice.gov/opa/page/file/1357716/download"
+    ],
+    "residency": "District of Columbia",
+    "casestatus": [
+      "Arrested 1/18/21 in Washington, DC"
+    ],
+    "lastupdated": "1/21/2021"
+  },
+  {
+    "casenumber": "1:21-mj-180",
+    "name": "HUGHES, Jerod Wade",
+    "charges": [
+      "Obstruction of an Official Proceeding; Obstruct/Impact/Interfere with Law Enforcement during a Civil Disorder; Knowingly Enter or Remain in Restricted Building Without Authorization; Knowingly Disrupt Government Business or Official Function; Enter or Remain in Capitol Building Without Authorization; Enter Capitol Building with the Intent to Disrupt Official Business; Parade, Demonstrate, or Picket in a Capitol Building; Destruction of Property; Aiding and Abetting"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1364151/download"
+    ],
+    "residency": "Montana",
+    "casestatus": [
+      "Arrested 2/1/21 in the District of Montana"
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-mj-180",
+    "name": "HUGHES, Joshua Calvin",
+    "charges": [
+      "Obstruction of an Official Proceeding; Obstruct/Impact/Interfere with Law Enforcement during a Civil Disorder; Knowingly Enter or Remain in Restricted Building Without Authorization; Knowingly Disrupt Government Business or Official Function; Enter or Remain in Capitol Building Without Authorization; Enter Capitol Building with the Intent to Disrupt Official Business; Parade, Demonstrate, or Picket in a Capitol Building; Destruction of Property; Aiding and Abetting"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1364151/download"
+    ],
+    "residency": "Montana",
+    "casestatus": [
+      "Arrested 1/2/21 in the District of Montana"
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-cr-53",
+    "name": "LANG, Edward Jacob",
+    "charges": [
+      "Civil Disorder; Assaulting, Resisting, or Impeding Certain Officers; Assaultin, Resisting, or Impeding Certain Officers Using a Dangerous Weapon; Obstruction of an Official Proceeding; Aiding and Abetting; Disorderly and Disruptive Conduct in a Restricted Building or Grounds with a Deadly or Dangerous Weapon; Disorderly Conduct in a Capitol Building; Act of Physical Violence in the Capitol Grounds or Buildings"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1355866/download",
+      "https://www.justice.gov/opa/page/file/1355871/download",
+      "https://www.justice.gov/opa/page/file/1364166/download"
+    ],
+    "residency": "New York",
+    "casestatus": [
+      "Arrested on 1/16/21 in New York."
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-cr-46",
+    "name": "MONTGOMERY, Patrick",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1357711/download",
+      "https://www.justice.gov/opa/page/file/1357706/download"
+    ],
+    "residency": "Colorado",
+    "casestatus": [
+      "Arrested 1/17/21 in Colorado."
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "",
+    "name": "NORDEAN, Ethan (aka, Ruffio Panman)",
+    "charges": [
+      "Aid and Abet Injury or Depredation Against Government Property; Obstruct or Impede an Official Proceeding; Knowingly Entering or Remaining in Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1364196/download"
+    ],
+    "residency": "Washington, Eastern District",
+    "casestatus": [
+      "Arrested 2/3/21 in the Eastern District of Washington"
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-cr-23",
+    "name": "PRUITT, Joshua",
+    "charges": [
+      "Civil Disorder; Obstruction of an Official Proceeding; Aiding and Abetting; Destruction of Government Property; Entering and Remaining in a Restricted Building or Grounds; Disorderly and Disruptive Conduct in a Restricted Building or Grounds; Disorderly Conduct in a Capitol Bulding; Acts of Physical Violence in the Capitol Building"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol",
+      "https://www.justice.gov/opa/press-release/file/1351696/download",
+      "https://www.justice.gov/opa/press-release/file/1351701/download",
+      "https://www.justice.gov/opa/page/file/1361266/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested on 1/7/21. Initial appearance / detention hearing on 1/7/21. Defendant released. Preliminary Hearing set for 1/28/21 at 12:00 p.m."
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-mj-81",
+    "name": "REED, Blake A.",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1355931/download",
+      "https://www.justice.gov/opa/page/file/1355936/download"
+    ],
+    "residency": "Tennessee, Nashville",
+    "casestatus": [
+      "Arrested 1/17/21 in Nashville. Initial apparance on 1/19/21. Released with conditions."
+    ],
+    "lastupdated": "1/21/2021"
+  },
+  {
+    "casenumber": "1:21-cr-41",
+    "name": "RUKSTALES, Bradley",
+    "charges": [
+      "Knowingly entering or remaining in any restricted building or grounds without lawful authority; or knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; and violent entry and disorderly conduct on Capitol grounds."
+    ],
+    "links": [
+      "https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol",
+      "https://www.justice.gov/opa/press-release/file/1351716/download",
+      "https://www.justice.gov/opa/press-release/file/1351721/download"
+    ],
+    "residency": "Illinois",
+    "casestatus": [
+      ""
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-cr-50",
+    "name": "RYAN, Jennifer Leigh",
+    "charges": [
+      "Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Disorderly Conduct on Capitol Grounds"
+    ],
+    "links": [
+      "https://www.justice.gov/opa/page/file/1356081/download",
+      "https://www.justice.gov/opa/page/file/1356471/download"
+    ],
+    "residency": "",
+    "casestatus": [
+      "Arrested on 1/15/21"
+    ],
+    "lastupdated": "2/3/2021"
+  },
+  {
+    "casenumber": "1:21-cr-41",
+    "name": "SWEET, Douglas",
+    "charges": [
+      "Knowingly entering or remaining in any restricted building or grounds without lawful authority; or knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; and violent entry and disorderly conduct on Capitol grounds."
+    ],
+    "links": [
+      "https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol",
+      "https://www.justice.gov/opa/press-release/file/1351716/download",
+      "https://www.justice.gov/opa/press-release/file/1351721/download"
+    ],
+    "residency": "Virginia",
+    "casestatus": [
+      ""
+    ],
+    "lastupdated": "2/3/2021"
   }
 ]
